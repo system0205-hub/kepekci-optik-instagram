@@ -1,0 +1,196 @@
+Bu talimatı kepekcioptik.myikas.com admin panelinde uygula.
+
+Blog > Yeni Blog Yazısı sayfasını aç.
+
+ÖNCELİKLE ÖNEMLİ KURALLAR:
+- Başlık bloğu demek: + tuşuna bas, "Başlık" seç, seviyeyi ayarla (H2 veya H3). Metin olarak [BAŞLIK] yazma.
+- Görsel bloğu demek: + tuşuna bas, "Görsel" seç, bilgisayarımdan dosya yükle. Metin olarak [GÖRSEL] yazma.
+- Madde işaretli liste demek: + tuşuna bas, liste bloğu seç. Düz metin olarak madde yazma.
+- Soruları kalın (bold) yap, cevapları normal bırak.
+
+ADIM 1 — SOL PANEL (BAŞLIK)
+"Başlık ekleyin" kutusuna şunu yaz:
+Progresif Cam Nedir? Tek Camda 3 Mesafe Görüşü
+
+ADIM 2 — SAĞ PANEL (TEMEL BİLGİ)
+
+Kısa Açıklama kutusuna şunu yaz:
+Progresif cam nedir, nasıl çalışır, kimler kullanmalı? Tek camda uzak, orta ve yakın mesafe görüşü. Kilis'te Essilor Varilux ve Zeiss progresif cam yetkili satıcısı.
+
+Görsel alanına bu dosyayı yükle (bilgisayarımdan):
+03-gozluklu-okuma.jpg
+
+Kategori seç:
+Optik Bilgi
+
+Etiket yaz:
+progresif cam, progresif lens, varilux, kilis optik, çok odaklı cam
+
+Dil seç:
+Türkçe
+
+Yazar Ad: Kepekçi
+Yazar Soyad: Optik
+
+ADIM 3 — SAĞ PANEL (SEO BÖLÜMÜ)
+Arama Motoru Optimizasyonu (SEO) bölümünü aç.
+
+Slug kutusuna şunu yaz:
+progresif-cam-nedir
+
+Sayfa Başlığı kutusuna şunu yaz:
+Progresif Cam Nedir? Kimler Kullanmalı? | Kilis Kepekçi Optik
+
+Açıklama kutusuna şunu yaz:
+Progresif cam nedir, nasıl çalışır, kimler kullanmalı? Tek camda 3 mesafe görüşü. Kilis'te Essilor Varilux, Zeiss progresif cam yetkili satıcısı Kepekçi Optik.
+
+ADIM 4 — SOL PANEL (İÇERİK)
++ tuşuna basarak blok blok ekle. Sırasıyla:
+
+--- BLOK 1: Metin paragrafı ---
+40 yaşını geçtiniz ve artık telefonu uzağa tutarak mı okuyorsunuz? Yakını görmek için gözlük takıp uzağa bakmak için çıkarıyor musunuz? İki ayrı gözlük taşımaktan bıktıysanız, progresif cam tam size göre.
+
+--- BLOK 2: Metin paragrafı ---
+Progresif cam, tek bir camda uzak, orta ve yakın mesafe görüşünü sağlayan çok odaklı cam teknolojisidir. Eski bifokallerdeki (çift odaklı) çirkin çizgi yoktur — geçişler yumuşak ve görünmezdir.
+
+--- BLOK 3: Başlık H2 ---
+Progresif Cam Nasıl Çalışır?
+
+--- BLOK 4: Metin paragrafı ---
+Progresif camın üç bölgesi vardır:
+
+--- BLOK 5: Liste (madde işaretli) ---
+Üst bölge: Uzak mesafe görüşü — TV izleme, araba kullanma, yürüme
+Orta bölge: Orta mesafe — bilgisayar ekranı, market rafı, karşınızdaki kişi
+Alt bölge: Yakın mesafe — okuma, telefon, tablet
+Yan bölgeler: Geçiş alanları — başlangıçta hafif bulanıklık olabilir, 7-14 günde alışılır
+
+--- BLOK 6: Metin paragrafı ---
+Bu üç bölge arasında keskin bir sınır yoktur. Göz, camın farklı bölgelerine bakarak otomatik olarak doğru mesafeye odaklanır.
+
+--- BLOK 7: Başlık H2 ---
+Kimler Progresif Cam Kullanmalı?
+
+--- BLOK 8: Metin paragrafı ---
+40 yaşından sonra şu belirtiler başladıysa progresif cam düşünmelisiniz:
+
+--- BLOK 9: Liste (madde işaretli) ---
+Okurken gazeteyi veya telefonu uzağa tutuyorsunuz
+Yakını görmek için gözlük takıp uzağa bakmak için çıkarıyorsunuz
+Bilgisayar başında göz yorgunluğu yaşıyorsunuz
+İki ayrı gözlük (uzak + yakın) taşımak sizi yoruyor
+Okuma gözlüğüyle başınızı kaldırıp uzağa baktığınızda her şey bulanık
+
+--- BLOK 10: Metin paragrafı ---
+Bu belirtiler presbiyopi (yaşa bağlı yakın görme zorluğu) işaretidir ve tamamen normaldir. Progresif cam bu sorunu tek gözlükle çözer.
+
+--- BLOK 11: Başlık H2 ---
+Progresif Cam Türleri
+
+--- BLOK 12: Metin paragrafı ---
+Standart Progresif: Temel progresif teknoloji. Ekonomik fiyatlı, dar görüş koridoru. İlk kez progresif cam deneyenler için uygun olabilir ama alışma süresi daha uzundur.
+
+--- BLOK 13: Metin paragrafı ---
+Geniş Koridor Progresif: Daha geniş görüş alanı, daha az yan bulanıklık. Alışması daha kolay. Günlük kullanım için ideal.
+
+--- BLOK 14: Metin paragrafı ---
+Premium / Freeform Progresif: Kişiye özel hesaplama ile üretilir. En geniş görüş alanı, en az distorsiyon. Araba kullanma, bilgisayar çalışma ve okuma — her durumda konforlu.
+
+--- BLOK 15: Metin paragrafı ---
+Kepekçi Optik'te sunduğumuz progresif cam markaları:
+
+--- BLOK 16: Liste (madde işaretli) ---
+Essilor Varilux — Dünyanın ilk ve en çok tercih edilen progresif cam markası
+Zeiss Progresif — Alman hassasiyetiyle üretilen premium camlar
+Novax Progresif — Türk yapımı, uygun fiyatlı alternatif
+Kodak Progresif — İyi performans/fiyat dengesi
+Nikon Progresif — Japon teknolojisi, ince ve hafif
+
+--- BLOK 17: Görsel ---
+Bilgisayarımdan "03-gozluk-cam-closeup.jpg" dosyasını yükle.
+Alt metin: Progresif gözlük camı yakın çekim Essilor Varilux
+
+--- BLOK 18: Başlık H2 ---
+Progresif Cama Alışma Süreci
+
+--- BLOK 19: Metin paragrafı ---
+İlk progresif camınızı aldığınızda 7-14 günlük bir alışma süreci normaldir. Bu sürede:
+
+--- BLOK 20: Liste (numaralı) ---
+İlk günlerde sadece düz zeminde yürüyün — merdivenden yavaş inin, basamaklara dikkat edin
+Başınızı çevirerek bakın — sadece gözlerinizi kaydırmak yerine başınızı çevirin
+Okurken başınızı hafif öne eğin — camın alt kısmını kullanmak için
+Gözlüğü gün boyu takın — çıkarıp takmak alışmayı yavaşlatır
+2 hafta sonra hâlâ zorlanıyorsanız — mağazamıza gelin, ücretsiz ayar yapalım
+
+--- BLOK 21: Metin paragrafı ---
+Alışma oranı %95'in üzerindedir. Endişelenmeyin, birkaç gün sabır yeterli.
+
+--- BLOK 22: Görsel ---
+Bilgisayarımdan "03-bilgisayar-gozluk.jpg" dosyasını yükle.
+Alt metin: Bilgisayar başında progresif gözlük kullanan kişi
+
+--- BLOK 23: Başlık H2 ---
+Progresif Cam mı Bifokal mı?
+
+--- BLOK 24: Metin paragrafı ---
+Progresif cam: 3 mesafe görüşü (uzak-orta-yakın), yumuşak ve görünmez geçiş, modern ve çizgisiz estetik, bilgisayar mesafesi var, 7-14 gün alışma süresi.
+
+--- BLOK 25: Metin paragrafı ---
+Bifokal cam: 2 mesafe görüşü (uzak-yakın), keskin çizgi var, çizgi görünür, bilgisayar mesafesi yok, 3-5 gün alışma süresi.
+
+--- BLOK 26: Metin paragrafı ---
+Önerimiz: Progresif cam her açıdan bifokalden üstündür. Bilgisayar kullanan, aktif yaşam süren herkes için progresif cam doğru seçimdir.
+
+--- BLOK 27: Başlık H2 ---
+Progresif Cam Fiyatları Neye Göre Değişir?
+
+--- BLOK 28: Metin paragrafı ---
+Progresif cam fiyatını etkileyen faktörler:
+
+--- BLOK 29: Liste (madde işaretli) ---
+Cam markası: Premium markalar daha pahalı ama daha geniş görüş alanı sunar
+Koridor genişliği: Geniş koridor = daha rahat kullanım = daha yüksek fiyat
+Kaplama: Mavi ışık filtresi, çizilme direnci, yansıma önleme
+İncelik: Yüksek numaralarda ince cam tercih edilir (indeks 1.6 veya 1.67)
+Kişiye özel üretim: Freeform teknoloji ile kişiye özel hesaplanan camlar premium segmenttedir
+
+--- BLOK 30: Metin paragrafı ---
+Mağazamıza gelerek farklı seçeneklerin fiyatlarını öğrenebilir, bütçenize uygun en iyi progresif camı birlikte seçebilirsiniz.
+
+--- BLOK 31: Başlık H2 ---
+Sıkça Sorulan Sorular
+
+--- BLOK 32: Metin paragrafı (soruyu kalın yap) ---
+Progresif cama alışamazsam ne olur?
+%95'ten fazla kişi 2 hafta içinde alışır. Alışamama durumunda cam değişimi yapılabilir. Mağazamıza gelin, alışma sürecinde size rehberlik edelim.
+
+--- BLOK 33: Metin paragrafı (soruyu kalın yap) ---
+Araba kullanırken sorun olur mu?
+Hayır, aksine progresif cam araba kullanmayı kolaylaştırır. Tek gözlükle hem yolu hem gösterge panelini hem navigasyonu görürsünüz.
+
+--- BLOK 34: Metin paragrafı (soruyu kalın yap) ---
+Progresif cam ile bilgisayarda çalışabilir miyim?
+Evet. Progresif camın orta bölgesi bilgisayar mesafesi için tasarlanmıştır. Uzun süreli bilgisayar kullanımı için özel "ofis progresif" camları da mevcuttur.
+
+--- BLOK 35: Metin paragrafı (soruyu kalın yap) ---
+Ne kadar dayanır?
+Cam ömrü ortalama 2-3 yıldır. Numara değişirse veya kaplama aşınırsa yenilenmesi gerekir.
+
+--- BLOK 36: Ayırıcı çizgi ---
+
+--- BLOK 37: Metin paragrafı (kalın) ---
+Kepekçi Optik — Kilis'te Progresif Cam Uzmanı
+
+--- BLOK 38: Metin paragrafı ---
+İlk progresif camınız mı olacak? Gelin beraber en uygun seçeneği bulalım. Danışmanlığımız ücretsizdir.
+
+--- BLOK 39: Metin paragrafı ---
+📍 Albay İbrahim Karaoğlanoğlu, Ömer Halisdemir Cd, Beka Korupark Evleri D:31/B, 79000 Kilis Merkez/Kilis (Yeni Hastane Yolu üzeri)
+📞 0506 905 55 70
+🌐 kepekcioptik.com
+📸 @kepekcioptik
+
+ADIM 5 — KAYDET butonuna bas.
+
+BİTTİ!

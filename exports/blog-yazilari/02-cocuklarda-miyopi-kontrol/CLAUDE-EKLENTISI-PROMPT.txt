@@ -1,0 +1,218 @@
+Bu talimatı kepekcioptik.myikas.com admin panelinde uygula.
+
+Blog > Yeni Blog Yazısı sayfasını aç.
+
+ÖNCELİKLE ÖNEMLİ KURALLAR:
+- Başlık bloğu demek: + tuşuna bas, "Başlık" seç, seviyeyi ayarla (H2 veya H3). Metin olarak [BAŞLIK] yazma.
+- Görsel bloğu demek: + tuşuna bas, "Görsel" seç, bilgisayarımdan dosya yükle. Metin olarak [GÖRSEL] yazma.
+- Madde işaretli liste demek: + tuşuna bas, liste bloğu seç. Düz metin olarak madde yazma.
+- Soruları kalın (bold) yap, cevapları normal bırak.
+
+ADIM 1 — SOL PANEL (BAŞLIK)
+"Başlık ekleyin" kutusuna şunu yaz:
+Çocuklarda Miyopi Neden Artıyor? Kontrol Camları ile Yavaşlatmak Mümkün
+
+ADIM 2 — SAĞ PANEL (TEMEL BİLGİ)
+
+Kısa Açıklama kutusuna şunu yaz:
+Kilis'te çocuklarda miyopi kontrol için 3 farklı cam: Essilor Stellest, Zeiss MyoCare, Novax Myopi-X. Kepekçi Optik yetkili satıcı.
+
+Görsel alanına bu dosyayı yükle (bilgisayarımdan):
+02-gozluklu-cocuk.jpg
+
+Kategori seç:
+Optik Bilgi
+
+Etiket yaz:
+miyopi kontrol, çocuklarda miyopi, essilor stellest, zeiss myocare, kilis optik
+
+Dil seç:
+Türkçe
+
+Yazar Ad: Kepekçi
+Yazar Soyad: Optik
+
+ADIM 3 — SAĞ PANEL (SEO BÖLÜMÜ)
+Arama Motoru Optimizasyonu (SEO) bölümünü aç.
+
+Slug kutusuna şunu yaz:
+cocuklarda-miyopi-kontrol-kilis
+
+Sayfa Başlığı kutusuna şunu yaz:
+Çocuklarda Miyopi Kontrol Kilis | Stellest, MyoCare, Myopi-X | Kepekçi Optik
+
+Açıklama kutusuna şunu yaz:
+Kilis'te çocuklarda miyopi kontrol için 3 farklı cam: Essilor Stellest (%67 yavaşlatma), Zeiss MyoCare, Novax Myopi-X. Kepekçi Optik yetkili satıcı.
+
+ADIM 4 — SOL PANEL (İÇERİK)
++ tuşuna basarak blok blok ekle. Sırasıyla:
+
+--- BLOK 1: Metin paragrafı ---
+Türkiye'de her 3 çocuktan 1'inde miyopi var ve bu oran her yıl artıyor. 2050 yılına kadar dünya nüfusunun yarısının miyop olacağı tahmin ediliyor. Ekran süresinin artması, dış mekan aktivitesinin azalması ve genetik faktörler bu artışın başlıca nedenleri.
+
+--- BLOK 2: Metin paragrafı ---
+Peki anne-baba olarak ne yapabilirsiniz? Miyopi tamamen önlenemez ama artış hızı kontrol altına alınabilir. Bu yazıda çocuklarda miyopinin nedenlerini, belirtilerini ve Kilis'te sunulan miyopi kontrol cam seçeneklerini anlatıyoruz.
+
+--- BLOK 3: Başlık H2 ---
+Miyopi Nedir?
+
+--- BLOK 4: Metin paragrafı ---
+Miyopi, uzaktaki nesneleri bulanık görme durumudur. Göz küresinin normalden biraz uzun olması nedeniyle görüntü retinaya değil, retinanın önüne düşer. Sonuç: çocuğunuz yakını net görür ama tahtayı, televizyonu veya tabelaları bulanık görür.
+
+--- BLOK 5: Başlık H2 ---
+Çocuğunuzda Miyopi Belirtileri
+
+--- BLOK 6: Metin paragrafı ---
+Çocuklar genellikle "iyi göremiyorum" demez çünkü herkesin böyle gördüğünü sanırlar. Bu belirtilere dikkat edin:
+
+--- BLOK 7: Liste (madde işaretli) ---
+Gözlerini kısarak bakıyor — uzağı net göremediğinin en klasik işareti
+TV'ye veya ekrana çok yakın oturuyor — yakınlaşarak görmeye çalışıyor
+Okurken satır atlıyor — odaklanma sorunu değil, görme problemi olabilir
+Sık baş ağrısı — net görebilmek için sürekli odaklanma çabası
+Okul başarısı düşüyor — tahtayı göremeyen çocuk derse odaklanamaz
+
+--- BLOK 8: Metin paragrafı ---
+Bu belirtilerden 2-3 tanesini görüyorsanız, çocuğunuzu göz doktoruna götürün.
+
+--- BLOK 9: Başlık H2 ---
+Miyopi Neden Bu Kadar Hızlı Artıyor?
+
+--- BLOK 10: Başlık H3 ---
+Ekran Süresi
+
+--- BLOK 11: Metin paragrafı ---
+Pandemi sonrası çocukların ekran süresi dramatik şekilde arttı. Günde 3 saatten fazla yakın mesafe çalışma (tablet, telefon, bilgisayar) miyopi riskini artırıyor.
+
+--- BLOK 12: Görsel ---
+Bilgisayarımdan "02-cocuk-ekran.jpg" dosyasını yükle.
+Alt metin: Ekrana bakan çocuk uzun ekran süresi miyopi riskini artırır
+
+--- BLOK 13: Başlık H3 ---
+Dış Mekan Eksikliği
+
+--- BLOK 14: Metin paragrafı ---
+Bilimsel çalışmalar günde en az 2 saat dış mekan aktivitesinin miyopi riskini azalttığını gösteriyor. Doğal ışık, göz gelişimi için kritik.
+
+--- BLOK 15: Görsel ---
+Bilgisayarımdan "02-cocuk-disarida.jpg" dosyasını yükle.
+Alt metin: Dışarıda oynayan çocuk doğal ışık miyopi riskini azaltır
+
+--- BLOK 16: Başlık H3 ---
+Genetik
+
+--- BLOK 17: Metin paragrafı ---
+Anne-baba miyopsa çocukta risk 3 ila 6 kat fazla. İki ebeveyn de miyopsa risk %60'a kadar çıkabiliyor.
+
+--- BLOK 18: Başlık H3 ---
+Erken Başlangıç
+
+--- BLOK 19: Metin paragrafı ---
+6 yaşından önce başlayan miyopi daha hızlı ilerliyor. Erken teşhis ve kontrol bu yüzden çok önemli.
+
+--- BLOK 20: Başlık H2 ---
+Miyopi Kontrol Camları Nasıl Çalışır?
+
+--- BLOK 21: Metin paragrafı ---
+Standart gözlük camları miyopiyi düzeltir ama ilerlemesini durdurmaz. Miyopi kontrol camları ise özel optik teknoloji ile gözün aksiyel uzamasını yavaşlatarak miyopi artışını kontrol altına alır.
+
+--- BLOK 22: Metin paragrafı ---
+Kilis'te 3 farklı miyopi kontrol cam teknolojisini sunan tek mağaza Kepekçi Optik'tir:
+
+--- BLOK 23: Başlık H3 ---
+1. Essilor Stellest — Dünya Lideri
+
+--- BLOK 24: Metin paragrafı ---
+Teknoloji: H.A.L.T. (Highly Aspherical Lenslet Target) — cam yüzeyinde 11 halkaya yayılmış 1.021 adet asferik mikro mercek bulunur.
+
+--- BLOK 25: Metin paragrafı ---
+Nasıl çalışır? Ortada 9mm çapında normal görüş bölgesi, çevresindeki mikro mercekler ise gözün uzamasını yavaşlatan özel bir sinyal üretir.
+
+--- BLOK 26: Metin paragrafı ---
+Klinik kanıt:
+
+--- BLOK 27: Liste (madde işaretli) ---
+5 yılda %67 daha az miyopi artışı (kontrol grubuna göre)
+0.72mm daha az aksiyel uzama
+FDA onayı (Eylül 2025)
+12+ saat/gün kullanımda en iyi sonuç
+
+--- BLOK 28: Başlık H3 ---
+2. Zeiss MyoCare — Alman Teknolojisi
+
+--- BLOK 29: Metin paragrafı ---
+Teknoloji: C.A.R.E. (Cylindrical Annular Refractive Elements) — silindirik halkasal kırıcı mikro yapılar.
+
+--- BLOK 30: Metin paragrafı ---
+İki model:
+
+--- BLOK 31: Liste (madde işaretli) ---
+MyoCare: 10 yaş altı çocuklar için
+MyoCare S: 10 yaş ve üstü çocuklar için
+
+--- BLOK 32: Metin paragrafı ---
+Avantajı: Yaş grubuna göre özelleştirilmiş tasarım. Alman mühendisliği hassasiyetiyle üretilir.
+
+--- BLOK 33: Başlık H3 ---
+3. Novax Myopi-X — %100 Türk Yapımı
+
+--- BLOK 34: Metin paragrafı ---
+Üretici: Beta Optik, Ankara (FDA kayıtlı tesis). Teknoloji: AI destekli FreeForm defokus tasarımı. Avantajı: Yerli üretim olduğu için ithal camlara göre daha ekonomik bir alternatif sunar. Bütçe dostu bir miyopi kontrol seçeneği arayanlar için ideal.
+
+--- BLOK 35: Başlık H2 ---
+Hangi Cam Çocuğunuz İçin Uygun?
+
+--- BLOK 36: Metin paragrafı ---
+Essilor Stellest: %67 yavaşlatma (kanıtlı), 6-16 yaş, Fransa menşei, FDA onaylı, premium fiyat. Zeiss MyoCare: Klinik çalışma devam ediyor, 10 altı ve 10 üstü model, Almanya menşei, premium fiyat. Novax Myopi-X: AI destekli tasarım, genel yaş, Türkiye menşei, ekonomik fiyat.
+
+--- BLOK 37: Metin paragrafı ---
+Çocuğunuzun yaşı, miyopi derecesi ve bütçenize göre en uygun seçeneği birlikte değerlendirelim.
+
+--- BLOK 38: Başlık H2 ---
+Ebeveynler İçin 7 Pratik Öneri
+
+--- BLOK 39: Liste (numaralı) ---
+Günde en az 2 saat dış mekan — doğal ışık miyopi ilerlemesini yavaşlatır
+20-20-20 kuralı — 20 dakikada bir, 20 saniye, 6 metre uzağa bak
+Ekran süresini sınırlayın — okul dışı maksimum 2 saat
+Okuma mesafesi — kitap veya tablet en az 30cm uzakta olmalı
+Oda aydınlatması — karanlıkta ekrana bakmayı önleyin
+Yıllık göz kontrolü — 6 yaşından itibaren her yıl göz doktoruna götürün
+Miyopi kontrol camı — doktor miyopi teşhisi koyarsa kontrol camlarını değerlendirin
+
+--- BLOK 40: Başlık H2 ---
+Sıkça Sorulan Sorular
+
+--- BLOK 41: Metin paragrafı (soruyu kalın yap) ---
+Miyopi kontrol camları miyopiyi tamamen durdurur mu?
+Hayır, tamamen durdurmaz ama artış hızını önemli ölçüde yavaşlatır. Essilor Stellest %67'ye kadar yavaşlatma sağlar.
+
+--- BLOK 42: Metin paragrafı (soruyu kalın yap) ---
+Hangi yaşta başlanmalı?
+Miyopi teşhisi konur konmaz. Erken başlamak daha etkili. Genellikle 6-16 yaş arası en kritik dönemdir.
+
+--- BLOK 43: Metin paragrafı (soruyu kalın yap) ---
+Kontrol camları normal gözlük gibi mi görünür?
+Evet, dışarıdan bakıldığında normal gözlük camından farkı yoktur. Çocuğunuz rahatça kullanır.
+
+--- BLOK 44: Metin paragrafı (soruyu kalın yap) ---
+Fiyatları ne kadar?
+Cam teknolojisine ve çerçeveye göre değişir. Mağazamıza gelerek 3 farklı seçeneğin fiyatını öğrenebilirsiniz. Novax yerli üretim olduğu için daha ekonomik bir seçenek sunar.
+
+--- BLOK 45: Ayırıcı çizgi ---
+
+--- BLOK 46: Metin paragrafı (kalın) ---
+Kepekçi Optik — Kilis'te Miyopi Kontrol Merkezi
+
+--- BLOK 47: Metin paragrafı ---
+Çocuğunuzun miyopisi artıyorsa, hangi camın uygun olduğunu birlikte değerlendirelim.
+
+--- BLOK 48: Metin paragrafı ---
+📍 Albay İbrahim Karaoğlanoğlu, Ömer Halisdemir Cd, Beka Korupark Evleri D:31/B, 79000 Kilis Merkez/Kilis (Yeni Hastane Yolu üzeri)
+📞 0506 905 55 70
+🌐 kepekcioptik.com
+📸 @kepekcioptik
+
+ADIM 5 — KAYDET butonuna bas.
+
+BİTTİ!
