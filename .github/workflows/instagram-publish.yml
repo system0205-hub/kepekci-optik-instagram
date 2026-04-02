@@ -7,6 +7,9 @@ on:
   # Manuel tetikleme (test için)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -14,16 +17,11 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
-      - name: Install dependencies
-        run: pip install requests
 
       - name: Kuyruktan yayınla
         env:
@@ -36,5 +34,9 @@ jobs:
           git config user.name "Kepekci Bot"
           git config user.email "bot@kepekcioptik.com"
           git add content/queue.json
-          git diff --staged --quiet || git commit -m "chore: queue güncellendi (yayınlanan işaretlendi)"
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: queue güncellendi (yayınlanan işaretlendi)"
+            git push
+          else
+            echo "Değişiklik yok, push gerekmiyor."
+          fi
