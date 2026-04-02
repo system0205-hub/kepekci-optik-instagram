@@ -1,0 +1,88 @@
+============================================================
+KEPEKCİOPTİK.COM — SSS (FAQ) SAYFASI EKLEMESİ
+Bu talimatı Claude tarayıcı eklentisine ver
+============================================================
+
+kepekcioptik.com web sitesine (ikas altyapısı) bir SSS (Sıkça Sorulan Sorular) sayfası eklemem lazım.
+
+## SAYFA BİLGİLERİ
+
+URL: /sss veya /sikca-sorulan-sorular
+Title: Sıkça Sorulan Sorular | Kepekçi Optik Kilis
+Meta Description: Kepekçi Optik hakkında sıkça sorulan sorular. Markalar, hizmetler, miyopi kontrol, progresif cam, çalışma saatleri ve daha fazlası.
+
+## SAYFA İÇERİĞİ (5 Soru-Cevap)
+
+### Soru 1: Kepekçi Optik'te hangi markalar var?
+Cevap: Mağazamızda Ray-Ban, Prada, Miu Miu, Versace, Burberry, Oakley, Dolce & Gabbana, Emporio Armani, Giorgio Armani, Swarovski, Jimmy Choo, Tiffany & Co, Ralph Lauren, Michael Kors, Oliver Peoples, Persol, Arnette ve Vogue Eyewear markaları mevcuttur. Hem güneş gözlüğü hem de numaralı gözlük çerçevelerini sunuyoruz.
+
+### Soru 2: Çocuklarda miyopi kontrol camı var mı?
+Cevap: Evet, Kepekçi Optik Kilis'in tek Essilor Stellest yetkili satıcısıdır. Stellest camları, H.A.L.T. teknolojisi ile çocuklarda miyopi artışını %67 oranında yavaşlatır. 6-16 yaş arası miyopi teşhisi konmuş çocuklar için uygundur. Detaylı bilgi için mağazamızı ziyaret edebilirsiniz.
+
+### Soru 3: Progresif cam yapıyor musunuz?
+Cevap: Evet, Essilor progresif camlar dahil tüm progresif cam çeşitlerimiz mevcuttur. Progresif cam, tek camda uzak, orta ve yakın mesafe görüşü sağlar. 40 yaş üstü hem uzak hem yakın görme sorunu yaşayan kişiler için idealdir. Alışma süresi genellikle 7-14 gündür.
+
+### Soru 4: Pupilla ve odak ölçümü yapıyor musunuz?
+Cevap: Evet, profesyonel cihazlarımızla pupilla ölçümü ve odak ölçümü yapıyoruz. Kilis'te bu hizmeti sunan nadir mağazalardan biriyiz. Gözlük camınızın doğru merkezlenmesi için bu ölçümler çok önemlidir.
+
+### Soru 5: Kepekçi Optik nerede, çalışma saatleri nedir?
+Cevap: Adresimiz: Albay İbrahim Karaoğlanoğlu, Ömer Halisdemir Cd, Beka Korupark Evleri D:31/B, 79000 Kilis Merkez/Kilis (Yeni Hastane Yolu üzeri). Çalışma saatlerimiz: Pazartesi-Cuma 08:30-19:00, Cumartesi 09:00-19:00. Pazar günü kapalıyız. Telefon: 0506 905 55 70.
+
+## FAQ SCHEMA MARKUP
+
+Bu sayfaya şu schema'yı da ekle:
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Kepekçi Optik'te hangi markalar var?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mağazamızda Ray-Ban, Prada, Miu Miu, Versace, Burberry, Oakley, Dolce & Gabbana, Emporio Armani, Giorgio Armani, Swarovski, Jimmy Choo, Tiffany & Co, Ralph Lauren, Michael Kors, Oliver Peoples, Persol, Arnette ve Vogue Eyewear markaları mevcuttur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Çocuklarda miyopi kontrol camı var mı?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet, Kepekçi Optik Kilis'in tek Essilor Stellest yetkili satıcısıdır. Stellest camları H.A.L.T. teknolojisi ile çocuklarda miyopi artışını %67 oranında yavaşlatır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Progresif cam yapıyor musunuz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet, Essilor progresif camlar dahil tüm progresif cam çeşitlerimiz mevcuttur. Progresif cam tek camda uzak, orta ve yakın mesafe görüşü sağlar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pupilla ve odak ölçümü yapıyor musunuz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet, profesyonel cihazlarımızla pupilla ölçümü ve odak ölçümü yapıyoruz. Kilis'te bu hizmeti sunan nadir mağazalardan biriyiz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kepekçi Optik nerede, çalışma saatleri nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adresimiz: Albay İbrahim Karaoğlanoğlu, Ömer Halisdemir Cd, Beka Korupark Evleri D:31/B, 79000 Kilis Merkez/Kilis. Pazartesi-Cuma 08:30-19:00, Cumartesi 09:00-19:00. Telefon: 0506 905 55 70."
+      }
+    }
+  ]
+}
+</script>
+
+## YASAL UYARI
+"Göz muayenesi", "göz ölçümü", "numara ölçme" ifadelerini KULLANMA!
+Sadece "pupilla ölçümü" ve "odak ölçümü" kullan.
+
+============================================================

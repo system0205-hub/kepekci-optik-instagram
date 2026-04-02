@@ -1,0 +1,80 @@
+=========================================
+PROGRESİF CAM REELS — ÇEKİM TALİMATI
+"Tek Camda 3 Mesafe"
+Format: Reels 20-25 saniye (9:16 dikey)
+=========================================
+
+HAZIRLIK (çekim öncesi):
+- Telefonu DİKEY tut (9:16 format)
+- Mağazada iyi ışık olan bir yer seç
+- Masanın üstüne şunları koy:
+  • 1 adet progresif cam (veya progresif gözlük)
+  • 1 gazete veya kitap (yakın mesafe için)
+  • Arka planda bilgisayar ekranı görünsün (orta mesafe)
+  • Uzakta mağaza rafları/duvar (uzak mesafe)
+
+=========================================
+SAHNE 1 — HOOK (0-3 saniye)
+=========================================
+Ne çek: Masadaki progresif camı/gözlüğü yakın çekimde göster
+Nasıl: Kamerayı cama yaklaştır, hafif açılı
+İpucu: Bu sahneye sonra text ekleyeceğiz: "40 yaşından sonra 2 gözlük mü taşıyorsunuz?"
+
+=========================================
+SAHNE 2 — YAKIN MESAFE (3-7 saniye)
+=========================================
+Ne çek: Progresif camı eline al, camın ALT kısmını gazeteye/kitaba doğrult
+Nasıl: Cam arkasından gazete harfleri görünsün (odaklanma hissi)
+İpucu: Yavaş ve sakin hareket et. Sonra text ekleyeceğiz: "YAKIN → Okuma, telefon"
+
+=========================================
+SAHNE 3 — ORTA MESAFE (7-12 saniye)
+=========================================
+Ne çek: Camı yukarı kaldır, ORTA kısmını bilgisayar ekranına doğrult
+Nasıl: Cam arkasından ekran görünsün
+İpucu: Yumuşak geçiş yap (aşağıdan yukarı kaydır). Text: "ORTA → Bilgisayar"
+
+=========================================
+SAHNE 4 — UZAK MESAFE (12-16 saniye)
+=========================================
+Ne çek: Camı biraz daha yukarı kaldır, ÜST kısmını uzağa doğrult
+Nasıl: Cam arkasından mağaza rafları/uzak duvar görünsün
+İpucu: Text: "UZAK → TV, araba kullanma"
+
+=========================================
+SAHNE 5 — TAM GÖZLÜK (16-20 saniye)
+=========================================
+Ne çek: Gözlüğü düzgün şekilde masaya koy veya elde tut, tam görünsün
+Nasıl: Güzel açıdan, ışık düşsün, profesyonel görünsün
+İpucu: Text: "Tek camda 3 mesafe = Progresif Cam"
+
+=========================================
+SAHNE 6 — KAPANIŞ (20-25 saniye)
+=========================================
+Ne çek: Gözlüğü çerçeveye güzel yerleştir (masada veya standda)
+Nasıl: Son kare güzel görünsün (logo + text eklenecek)
+İpucu: Text: "Kepekçi Optik — Progresif cam danışmanlığı" + logo
+
+=========================================
+ÇEKİM İPUÇLARI:
+=========================================
+1. Telefonu SABİT tut veya bir yere daya (titreme olmasın)
+2. Her sahneyi AYRI ÇEK (sonra birleştireceğiz)
+3. Her sahne 5-7 saniye olsun (fazlası kesilir)
+4. IŞIK önemli — pencere önü veya mağaza ışığı iyi olan yer
+5. Arka plan TEMİZ olsun (dağınıklık görünmesin)
+6. Sessiz çek — müzik sonra eklenecek
+7. Eğer tek çekimde yapmak istersen: camı yavaşça aşağıdan yukarı kaydır (yakın→orta→uzak)
+
+=========================================
+ALTERNATİF: TEK ÇEKİM VERSİYONU (KOLAY)
+=========================================
+Tek bir çekimde de yapabilirsin:
+1. Eline progresif camı al
+2. Önce gazeteye yaklaştır (3sn)
+3. Sonra bilgisayara çevir (3sn)
+4. Sonra uzağa çevir (3sn)
+5. Son olarak camı kameraya göster (3sn)
+Toplam: ~15 saniye, tek çekim, text overlay sonra eklenir
+BU EN KOLAY YOL — bununla başla!
+=========================================

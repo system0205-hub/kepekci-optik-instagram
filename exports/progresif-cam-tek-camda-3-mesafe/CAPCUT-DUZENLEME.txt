@@ -1,0 +1,119 @@
+=========================================
+CAPCUT DÜZENLEME REHBERİ — PROGRESİF CAM REELS
+=========================================
+
+ADIM 1: CapCut'ı aç (telefonda veya bilgisayarda)
+- "Yeni Proje" oluştur
+- Çektiğin videoları sırayla ekle
+- Format: 9:16 (dikey) seç
+
+=========================================
+ADIM 2: VİDEOLARI SIRALA VE KES
+=========================================
+Sıra:
+1. Hook sahnesi (cam close-up) — 3 saniye
+2. Yakın mesafe (gazete) — 4 saniye
+3. Orta mesafe (bilgisayar) — 4 saniye
+4. Uzak mesafe (uzak bakış) — 4 saniye
+5. Tam gözlük — 3 saniye
+6. Kapanış — 3 saniye
+TOPLAM: ~20 saniye
+
+Her klibi sürükleyerek kısalt, gereksiz kısımları kes.
+
+=========================================
+ADIM 3: TEXT (YAZI) EKLE
+=========================================
+Her sahneye şu yazıları ekle (CapCut → "Metin" → "Metin Ekle"):
+
+SAHNE 1 (0-3sn):
+  Üst: "40 yaşından sonra"
+  Alt: "2 gözlük mü taşıyorsunuz?"
+  Font: Kalın, beyaz, gölgeli
+  Boyut: BÜYÜK (ekranın yarısı)
+
+SAHNE 2 (3-7sn):
+  "YAKIN MESAFE"
+  "Okuma · Telefon · Tablet"
+  Alt köşe: küçük ok ↓ işareti
+
+SAHNE 3 (7-12sn):
+  "ORTA MESAFE"
+  "Bilgisayar · Market rafı"
+  Alt köşe: küçük ok →
+
+SAHNE 4 (12-16sn):
+  "UZAK MESAFE"
+  "TV · Araba · Yürüme"
+  Alt köşe: küçük ok ↑
+
+SAHNE 5 (16-20sn):
+  "TEK CAMDA 3 MESAFE"
+  "= PROGRESİF CAM"
+  Büyük, vurgulu, animasyonlu
+
+SAHNE 6 (20-25sn):
+  "Kepekçi Optik"
+  "Progresif cam danışmanlığı"
+  "📞 0506 905 55 70"
+
+Text ayarları:
+- Font: Montserrat Bold veya benzeri kalın font
+- Renk: Beyaz (#FFFFFF)
+- Gölge: Açık (okunabilirlik için)
+- Arka plan: Yarı saydam siyah kutu (opsiyonel)
+- Animasyon: "Fade in" veya "Pop" efekti
+
+=========================================
+ADIM 4: MÜZİK EKLE
+=========================================
+CapCut → "Ses" → "Müzik"
+Önerilen müzik tarzı:
+- Sakin, profesyonel, corporate hissi
+- Çok hızlı/gürültülü olmasın
+- CapCut'ta "Corporate" veya "Inspiring" kategorisinde ara
+- VEYA "Chill" kategorisinden seç
+
+Ses seviyesi: %30-40 (müzik arka planda, baskın olmasın)
+
+=========================================
+ADIM 5: LOGO EKLE
+=========================================
+CapCut → "Kaplama" → "Fotoğraf ekle" → Logo.png seç
+- Konum: Sağ alt köşe
+- Boyut: Küçük (%10-12)
+- Opaklık: %70-80 (yarı saydam)
+- Süre: TÜM VİDEO BOYUNCA (watermark olarak)
+
+=========================================
+ADIM 6: GEÇİŞ EFEKTLERİ
+=========================================
+Her sahne arasına geçiş ekle:
+CapCut → Kliplerin arasındaki | simgesine tıkla → Geçiş seç
+Önerilen: "Slide" veya "Fade" (0.3-0.5 saniye)
+KURAL: Aynı geçişi kullan, karışık olmasın
+
+=========================================
+ADIM 7: KAPAK GÖRSELİ
+=========================================
+CapCut → "Çerçeve" veya videonun en güzel karesini seç
+VEYA ben sana ayrı kapak görseli hazırlıyorum (exports klasöründe)
+
+=========================================
+ADIM 8: DIŞA AKTAR
+=========================================
+CapCut → "Dışa Aktar" veya "Export"
+- Çözünürlük: 1080p
+- Kare hızı: 30fps
+- Format: MP4
+
+=========================================
+KISA ÖZET (HIZLI YAPACAKSAN):
+=========================================
+1. Videoları sırayla ekle
+2. Her sahneye yazı ekle
+3. Müzik ekle (%30 ses)
+4. Logo ekle (sağ alt, tüm video)
+5. Geçiş efekti ekle (fade)
+6. Export et → Instagram'a yükle
+=========================================

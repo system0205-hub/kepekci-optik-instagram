@@ -1,0 +1,40 @@
+name: Instagram Otomatik Paylaşım
+
+on:
+  # Her saat başı kontrol et (UTC)
+  schedule:
+    - cron: '0 * * * *'
+  # Manuel tetikleme (test için)
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Kuyruktan yayınla
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          INSTAGRAM_BUSINESS_ID: ${{ secrets.INSTAGRAM_BUSINESS_ID }}
+        run: python scripts/github-publish.py
+
+      - name: Queue güncelle (yayınlananları işaretle)
+        run: |
+          git config user.name "Kepekci Bot"
+          git config user.email "bot@kepekcioptik.com"
+          git add content/queue.json
+          git diff --staged --quiet || git commit -m "chore: queue güncellendi (yayınlanan işaretlendi)"
+          git push

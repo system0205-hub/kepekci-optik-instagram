@@ -1,0 +1,17 @@
+# Secrets - ASLA push etme
+.env
+.env.*
+
+# Claude Code config
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Task scheduler batch files
+scripts/tasks/

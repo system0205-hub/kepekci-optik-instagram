@@ -1,0 +1,41 @@
+CAPCUT SEEDANCE 2.0 — TEK PROMPT
+==================================
+Ayarlar: Seedance 2.0 / 720p / 15s / 9:16
+
+
+PROMPT (Kopyala yapıştır):
+===========================
+
+A cinematic 15-second vertical video with 4 distinct scenes transitioning smoothly:
+
+[0:00-0:03] SCENE 1 — HOOK: Extreme close-up of a young woman's face in a completely dark room. The only light is intense blue-white glow from a computer screen illuminating her face, reflecting in her eyes and glasses. She looks strained and fatigued, slightly squinting, fingers near her temple. Camera slowly dollies in. Cold blue color temperature, shallow depth of field, film grain, moody dramatic atmosphere. Anamorphic lens with subtle blue lens flare.
+
+[0:03-0:07] SCENE 2 — PROBLEM: Medium shot of the same tired woman at a desk surrounded by three glowing screens. She removes her glasses and presses both palms against her closed eyes, rubbing them in exhaustion. Then touches her temples indicating a headache. Dim warm overhead lighting mixed with harsh blue screen glow creating dramatic contrast. Coffee cup and papers scattered on desk. Evening office with city lights through venetian blinds in background. Slow motion, cold blue-dominant grading, stressful overwhelming mood.
+
+[0:07-0:11] SCENE 3 — SOLUTION: Extreme macro close-up of a premium eyeglass lens held at an angle. Multiple blue-violet light beams approach from the left, hitting the lens surface and being visibly blocked and deflected. Stunning blue-purple anti-reflective coating shimmer appears on the lens. The lens slowly rotates catching light at different angles revealing blue, violet, and green coating reflections. Clean dark navy gradient background. Studio product photography lighting, sharp clinical precision, the mood shifts to technological, premium, and hopeful.
+
+[0:11-0:15] SCENE 4 — HAPPY ENDING: Medium shot of the same woman now wearing elegant glasses with visible blue-violet coating reflection on lenses. She works comfortably on her laptop in a warm modern workspace. Golden hour sunlight streams through a large window creating a soft backlight halo around her hair. She looks relaxed, energetic, smiling naturally as she types. Green plant and warm coffee on clean desk. Camera slowly pulls back. Warm golden amber color grading in stark contrast to earlier cold blue scenes. Calm, productive, comfortable commercial beauty atmosphere.
+
+Smooth cinematic transitions between all scenes. Overall color journey from cold hostile blue to warm inviting gold. Professional commercial quality throughout.
+
+Negatif: blurry, low quality, distorted, deformed hands, extra fingers, morphing, glitch, watermark, text overlay, cartoon, anime, static, frozen, split screen
+
+
+VIDEO OLUŞTUKTAN SONRA:
+========================
+
+1. ALTYAZI EKLE (Yazılar sekmesi):
+   0-3sn: "Günde kaç saat ekrana bakıyorsunuz? 👀"
+   3-7sn: "Baş ağrısı... Göz kuruluğu... Uyku bozukluğu..."
+   7-11sn: "Mavi ışık filtresi zararlı ışınların %40'ını engeller ✅"
+   11-15sn: "Crizal Prevencia · Essilor Eyezen · Zeiss BlueGuard"
+
+   Font: Montserrat Bold, Beyaz, siyah outline, alt orta, Pop animasyon
+
+2. LOGO: Çıkartmalar → Logo.png → sağ alt, %8, yarı saydam, tüm video
+
+3. MÜZİK: Ses → Cinematic/Dramatic → %30 ses seviyesi
+
+4. SON KARE (opsiyonel): reels-kapak.png ekle (3sn), fade geçiş
+
+5. DIŞA AKTAR: 1080x1920, 30fps, Yüksek, MP4
