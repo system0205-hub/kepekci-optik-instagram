@@ -220,7 +220,7 @@ Her export klasorunde ACIKLAMA.md dosyasi olmali. Icerigi:
    - Madde madde listeler (1️⃣ 2️⃣ 3️⃣ veya ✅)
    - CTA (ne yapmali: gel, ara, kaydir)
    - Musteri sorununa cozum sun ("miyopisi artiyor mu?", "yakin gormekte mi zorlaniyorsunuz?")
-5. **Hashtag'ler** — 3 adet (1 genel + 1 yerel + 1 konuya ozel)
+5. **Hashtag'ler** — 10 adet, Kilis odaklı dağılım (5 yerel + 2 mağaza + 3 konu)
 6. **Yayin zamani** — Gun + saat onerisi
 7. **Notlar** — Eksik/yapilmasi gerekenler
 
@@ -277,30 +277,38 @@ Her export klasorunde ACIKLAMA.md dosyasi olmali. Icerigi:
 
 **AMAÇ: Kilis'te ön plana çıkmak. Hashtag'ler YEREL keşfedilebilirliğe odaklanmalı.**
 
-**Formül: Her postta 3 hashtag — 1 yerel + 1 marka/mağaza + 1 konuya özel**
+**Formül: Her postta 10 hashtag — 5 yerel Kilis + 2 mağaza + 3 konu**
 
-### Öncelik Sırası (KRITIK)
-1. **YEREL hashtag ZORUNLU** — Her postta Kilis ile ilgili en az 1 hashtag olmalı
-2. **Mağaza hashtag'i ZORUNLU** — #kepekcioptik her postta olmalı
-3. **Konu hashtag'i** — İçeriğe göre seçilir
+### Öncelik Sırası (KRITIK - Kilis'te Öne Çıkma Stratejisi)
+1. **5 YEREL Kilis hashtag** ZORUNLU — Kilis'te öne çıkmak için en kritik faktör
+2. **2 MAĞAZA hashtag** ZORUNLU — Marka bilinirliği
+3. **3 KONU hashtag** — İçeriğe göre seçilir
 
 ### Hashtag Havuzu
 
-| Kategori | Havuz | Öncelik |
-|----------|-------|---------|
-| Mağaza (HER POSTTA) | #kepekcioptik | ⭐ ZORUNLU |
-| Yerel Kilis (HER POSTTA) | #kilisoptik #kilisgozsagligi #kilisgozluk #kilisoptikci #kilismerkez #kilis #kilisliler | ⭐ ZORUNLU |
-| Eğitici | #gozsagligi #gozlukbakimi #progresifcam #miyopi #astigmat #miyopikontrol | Konuya göre |
-| Marka | #rayban #prada #miumiu #versace #oakley #essilor #zeiss | Konuya göre |
-| Trend | #gozluktrend #gozlukstil #gunesgozlugu2026 | Konuya göre |
-| Çocuk | #cocukgozlugu #miyopikontrol #stellest #cocukgozsagligi | Konuya göre |
-| Kampanya | #kilisindirimi #optikfirsat #gunesgozluguindirim | Konuya göre |
+| Kategori | Havuz | Adet |
+|----------|-------|------|
+| 🏆 Yerel Kilis (5 ZORUNLU) | #kilis #kilisoptik #kilisgozluk #kilismerkez #kilisliler #kilisgozsagligi #kilisoptikci | Postta 5 |
+| 🏪 Mağaza (2 ZORUNLU) | #kepekcioptik #gozunuzbizdeolsun | Postta 2 |
+| 📚 Eğitici Konu | #gozsagligi #gozlukbakimi #progresifcam #miyopi #astigmat #miyopikontrol #gozmuayenesi | Postta 3 |
+| 👁️ Marka | #rayban #prada #miumiu #versace #oakley #essilor #zeiss #crizal | Konuya göre |
+| ☀️ Güneş Gözlüğü | #gunesgozlugu #uvkoruma #polarize #gunesgozlugu2026 | Konuya göre |
+| 👶 Çocuk | #cocukgozlugu #cocukgozsagligi #stellest | Konuya göre |
+| 🎉 Kampanya | #kilisindirimi #optikfirsat #gunesgozluguindirim | Konuya göre |
 
-### Örnekler
-- Gözlük bakımı postu: `#kilisoptik #kepekcioptik #gozlukbakimi`
-- Miyopi içeriği: `#kilisgozsagligi #kepekcioptik #miyopikontrol`
-- Güneş gözlüğü: `#kilisgozluk #kepekcioptik #gunesgozlugu2026`
-- Ray-Ban tanıtım: `#kilisoptik #kepekcioptik #rayban`
+### Örnekler (10 hashtag)
+
+**Eğitici post (gözlük bakımı):**
+`#kilis #kilisoptik #kilisgozluk #kilismerkez #kilisliler #kepekcioptik #gozunuzbizdeolsun #gozlukbakimi #gozsagligi #optik`
+
+**Miyopi içeriği:**
+`#kilis #kilisoptik #kilisgozsagligi #kilismerkez #kilisliler #kepekcioptik #gozunuzbizdeolsun #miyopi #miyopikontrol #stellest`
+
+**Güneş gözlüğü:**
+`#kilis #kilisoptik #kilisgozluk #kilismerkez #kilisliler #kepekcioptik #gozunuzbizdeolsun #gunesgozlugu #uvkoruma #rayban`
+
+**Çocuk gözlüğü:**
+`#kilis #kilisoptik #kilisgozsagligi #kilismerkez #kilisliler #kepekcioptik #gozunuzbizdeolsun #cocukgozlugu #cocukgozsagligi #miyopikontrol`
 
 ---
 
