@@ -67,8 +67,10 @@
       "https://res.cloudinary.com/diexi9rmr/image/upload/f_jpg,q_auto/v1775123393/kepekci-optik/07-okul-basarisi.png",
       "https://res.cloudinary.com/diexi9rmr/image/upload/f_jpg,q_auto/v1775123400/kepekci-optik/08-cta-iletisim.png"
     ],
-    "status": "pending",
-    "added_at": "2026-04-02 12:50"
+    "status": "published",
+    "added_at": "2026-04-02 12:50",
+    "media_id": "18161085559441646",
+    "published_at": "2026-04-09 19:10"
   },
   {
     "name": "miyopi-neden-artiyor-cam-kaplama",
