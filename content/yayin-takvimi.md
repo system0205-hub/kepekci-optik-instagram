@@ -1,5 +1,76 @@
 # Yayın Takvimi — Kepekçi Optik Instagram
 
+## Yayınlanan İçerikler ✅ (12 Nisan 2026 Pazar — kullanıcı doğruladı)
+
+| Tarih | Gün | İçerik | Format |
+|-------|-----|--------|--------|
+| 24 Mar | Salı | Çocuklarda Miyopi Kontrol | Carousel (5 slide) |
+| 31 Mar | Salı | Dünya Markası Cam & Kaplama | Post |
+| 1 Nis | Çarşamba | Mavi Işık Reels | Reels |
+| 3 Nis | Cuma | Yüz Şekline Göre Gözlük Seçimi | Carousel (6 slide) |
+| 6 Nis | Pazartesi | Gözlüğünüz Sizi Koruyor mu (Miyopi + Kaplama) | Carousel (6 slide) |
+| 9 Nis | Perşembe | Çocukta 8 Uyarı İşareti | Carousel (8 slide) |
+| 10 Nis | Cuma | Gözlüğünüze Zarar Veren 7 Hata | Carousel (7 slide) |
+
+## Kuyrukta Bekleyen ⏳
+
+| Tarih | Gün | İçerik | Format | Durum |
+|-------|-----|--------|--------|-------|
+| 14 Nis | Salı | Güneş Gözlüğü 5 Kritik Hata | Carousel (7 slide) | pending |
+
+## Gelecek Hafta: 14-18 Nisan 📅 (Salı-Perşembe-Cumartesi)
+
+| Tarih | Gün | İçerik | Durum |
+|-------|-----|--------|-------|
+| 14 Nis | Salı | Güneş Gözlüğü 5 Kritik Hata | ⏳ queue'da hazır |
+| 16 Nis | Perşembe | Drone Reels (Mağaza Tanıtım) | 📝 metin hazır, manuel yükleme |
+| 18 Nis | Cumartesi | Yaz 2026 Güneş Gözlüğü Koleksiyonu | ⏳ queue'da hazır |
+
+## GÜN REFERANS TABLOSU (Nisan 2026)
+| Pzt | Sal | Çar | Per | Cum | Cmt | Paz |
+|-----|-----|-----|-----|-----|-----|-----|
+|     |     | 1   | 2   | 3   | 4   | 5   |
+| 6   | 7   | 8   | 9   | 10  | 11  | 12  |
+| 13  | 14  | 15  | 16  | 17  | 18  | 19  |
+| 20  | 21  | 22  | 23  | 24  | 25  | 26  |
+| 27  | 28  | 29  | 30  |     |     |     |
+
+## Kurallar
+- Haftada 3 paylaşım: Salı - Perşembe - Cumartesi
+- Her gün ATMA — algoritma cezası verir
+- Saat: 19:00-21:00 (akşam, en yüksek etkileşim)
+
+## Yayınlanan İçerikler ✅ (12 Nisan 2026 itibarıyla doğrulanmış)
+
+| Tarih | Gün | İçerik | Format |
+|-------|-----|--------|--------|
+| 24 Mar | Pazartesi | Çocuklarda Miyopi Kontrol | Carousel (5 slide) |
+| 31 Mar | Pazartesi | Dünya Markası Cam & Kaplama | Post |
+| 1 Nis | Salı | Mavi Işık Reels | Reels |
+| 3 Nis | Perşembe | Yüz Şekline Göre Gözlük Seçimi | Carousel (6 slide) |
+| 6 Nis | Pazar | Gözlüğünüz Sizi Koruyor mu (Miyopi + Kaplama) | Carousel (6 slide) |
+| 9 Nis | Çarşamba | Çocukta 8 Uyarı İşareti | Carousel (8 slide) |
+| 10 Nis | Perşembe | Gözlüğünüze Zarar Veren 7 Hata | Carousel (7 slide) |
+
+## Kuyrukta Bekleyen ⏳
+
+| Tarih | Gün | İçerik | Format | Durum |
+|-------|-----|--------|--------|-------|
+| 14 Nis | Pazartesi | Güneş Gözlüğü 5 Kritik Hata | Carousel (7 slide) | pending — queue.json'da |
+
+## Gelecek Hafta: 15-19 Nisan 📅
+
+| Tarih | Gün | İçerik | Durum |
+|-------|-----|--------|-------|
+| 15 Nis | Salı | YENİ İÇERİK GEREKLİ | ❓ |
+| 17 Nis | Perşembe | YENİ İÇERİK GEREKLİ | ❓ |
+| 19 Nis | Cumartesi | YENİ İÇERİK GEREKLİ | ❓ |
+
+## Kurallar
+- Haftada 3 paylaşım: Salı - Perşembe - Cumartesi
+- Her gün ATMA — algoritma cezası verir
+- Saat: 19:00-21:00 (akşam, en yüksek etkileşim)
+
 ## Paylaşılan İçerikler ✅
 | Tarih | İçerik | Format |
 |-------|--------|--------|
