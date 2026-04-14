@@ -106,8 +106,10 @@
       "https://res.cloudinary.com/diexi9rmr/image/upload/f_jpg,q_auto/v1775549022/kepekci-optik/gunes-06-yuz.png",
       "https://res.cloudinary.com/diexi9rmr/image/upload/f_jpg,q_auto/v1775549029/kepekci-optik/gunes-07-cta.png"
     ],
-    "status": "pending",
-    "added_at": "2026-04-07 12:00"
+    "status": "published",
+    "added_at": "2026-04-07 12:00",
+    "media_id": "18058627799702818",
+    "published_at": "2026-04-14 20:10"
   },
   {
     "name": "gunes-gozlugu-koleksiyonu-2026",
