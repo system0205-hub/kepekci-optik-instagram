@@ -124,7 +124,9 @@
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1776099164/kepekci-optik/05-lens-teknolojisi.jpg",
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1776098320/kepekci-optik/06-cta-iletisim.jpg"
     ],
-    "status": "pending",
-    "added_at": "2026-04-13 18:12"
+    "status": "published",
+    "added_at": "2026-04-13 18:12",
+    "media_id": "17914957323163681",
+    "published_at": "2026-04-18 10:52"
   }
 ]
