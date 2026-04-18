@@ -1,0 +1,99 @@
+================================================================
+CLAUDE DESIGN BRIEF — POLARİZE CAM vs NORMAL CAM
+================================================================
+Planlanan Yayın: Perşembe 23 Nisan 2026, 19:00
+Tip: Instagram Carousel (5 slide)
+Boyut: 1080x1350 (dikey)
+
+KULLANIM:
+1. claude.ai/design aç (Kepekçi Optik projesine gir)
+2. Aşağıdaki brief'i sohbet kutusuna yapıştır
+3. Tasarım bitince "Export → Send to Claude Code" → handoff URL'ini
+   bana gönder
+4. Ben render + JPG + queue.json + commit yaparım
+================================================================
+
+
+Kepekçi Optik için 5 slide'lık Instagram carousel tasarla.
+Boyut: 1080x1350 (dikey)
+Konu: "Polarize Cam mı, Normal Cam mı? Güneş Gözlüğünüzde Hangisi Olmalı?"
+
+GENEL STİL (progresif cam carousel'iyle aynı düzen):
+- Modern, premium, profesyonel ajans kalitesi
+- Ana renk: Turkuaz #2EC4B6
+- Aksan: Altın/amber #F4A261 (vurgu için)
+- Koyu gri #3A3A3A metin, beyaz veya soft gradient arka plan
+- Başlık font: Montserrat Bold
+- Metin font: Open Sans
+- Her slide'da sağ alt köşede Logo.png (genişliğin %12'si = 130px)
+- Her slide'ın en altında ince telif: "© Tüm tasarımlar Kepekçi Optik firmasına aittir. İzinsiz kullanılamaz." (Open Sans 9px, beyaz %19 opaklık)
+- Üstte 5 dot slide navigator, sağ üstte slide numarası (01/05 formatında)
+
+SLIDE 1 — KAPAK (HOOK):
+Büyük başlık: "Her Koyu Cam Sizi Korumaz!"
+Vurgu: "Polarize" kelimesi altın renkte, diğerleri beyaz
+Alt açıklama: "Polarize cam ile normal koyu cam arasındaki fark, gözlerinizin sağlığını belirleyebilir 👇"
+Arka plan: Turkuaz gradient + bulanık yansıma (deniz/araba camı parıltısı) silueti
+Sağ altta "KAYDIR →" işareti altın renkte
+
+SLIDE 2 — FARK NEDİR (EN KRİTİK SLIDE):
+Başlık: "Polarize Cam Nedir?"
+Giriş cümlesi: "Polarize cam, yatay yansımaları filtreleyerek gözü yoran parıltıları ortadan kaldıran özel teknolojiye sahip camlardır. Normal koyu cam sadece ışığı azaltır — parıltıyı değil."
+
+Görsel karşılaştırma (split layout — sol vs sağ):
+→ SOL: "NORMAL CAM" başlık + rahatsız eden güneş parıltısı illüstrasyonu + özellikler:
+   ❌ Işığı azaltır
+   ❌ Yansımaya çözüm yok
+   ❌ Göz yorgunluğu sürer
+→ SAĞ: "POLARİZE CAM" başlık + net, keskin görünüm illüstrasyonu + özellikler:
+   ✅ Yansımaları filtreler
+   ✅ Kontrast artar
+   ✅ Renkler canlanır
+   ✅ Göz rahat eder
+
+SLIDE 3 — KİMLER POLARİZE KULLANMALI:
+Başlık: "Polarize Cam Kimler İçin İdeal?"
+4 büyük ikonlu kart (2x2 grid):
+1. 🚗 SÜRÜCÜLER — "Yol yansımaları, ön cam parıltısı yok"
+2. 🎣 BALIKÇI & SU SPORCULARI — "Su yüzeyi parıldamaz, derinlik net görünür"
+3. ⛷️ KAYAKÇI & OUTDOOR — "Kar yansıması göz acısı yapmaz"
+4. 🏖️ SAHİL / AÇIK HAVA — "Kum ve su parıltısı azalır"
+
+SLIDE 4 — ÖNEMLİ UYARILAR:
+Başlık: "Polarize Hakkında Bilmeniz Gerekenler"
+3 büyük kart:
+1. "POLARİZE = UV400 DEĞİL" — "İkisi ayrı özellik. Hem polarize hem UV400 olanı tercih edin."
+2. "BAZI EKRANLAR KARARIR" — "GPS, araba göstergesi, uçak kokpiti gibi LCD ekranlar polarize camda silik görünebilir."
+3. "UÇAK PİLOTLARI KULLANMAZ" — "Kokpit ekranlarını okumayı engellediği için."
+
+Alt kutu (altın arka plan): "Kepekçi Optik'te polarize gözlüklerimiz TÜM UV400 sertifikalıdır — ikisi bir arada."
+
+SLIDE 5 — CTA / İLETİŞİM:
+Arka plan: Mağaza fotoğrafı (dukkan.jpeg, blur 8px, turkuaz overlay %55)
+Üstte başlık: "Polarize Güneş Gözlüğünüzü Kepekçi Optik'ten Alın"
+Alt başlık (altın): "Yetkili Satıcısıyız"
+4 marka logosu/adı sıralı: Ray-Ban | Oakley | Prada | Persol (hepsi polarize seçenekli markalar)
+
+İletişim kartı (beyaz, gölgeli):
+📍 Albay İbrahim Karaoğlanoğlu, Ömer Halisdemir Cd, Beka Korupark Evleri D:31/B, Kilis Merkez (Yeni Hastane Yolu üzeri)
+📞 0506 905 55 70
+🌐 kepekcioptik.com
+📷 @kepekcioptik
+
+Altın CTA buton: "MAĞAZAMIZA BEKLERİZ →"
+En altta telif yazısı
+
+KRİTİK YASAKLAR:
+- "Göz muayenesi", "göz numarası" kelimelerini kullanma (Türkiye yasası). Yerine "gözlük danışmanlığı" veya "pupilla ölçümü" de.
+- "Kilis'te tek" iddiası yasak.
+- Ucuz/kalitesiz rakipleri doğrudan kötüleme — sadece fark anlatılsın.
+
+
+================================================================
+NOTLAR
+================================================================
+- Yayın planı: Perşembe 19:00 (prime time)
+- Hashtag önerisi (ACIKLAMA.md'de kullanılacak):
+  #kilis #kilisoptik #kilisgozluk #kilismerkez #kilisliler
+  #kepekcioptik #gozunuzbizdeolsun #polarize #gunesgozlugu #uvkoruma
+- Haftalık takvim: Sal-Per-Cmt kuralı (bu Per slot'u)
