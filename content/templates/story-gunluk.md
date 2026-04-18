@@ -45,7 +45,7 @@
 - Hizli tuketilecek icerik
 - Seriye bagla (3-5 story art arda)
 
-## Canva Tasarim Notu
+## Pencil Tasarim Notu
 - Metin overlay: ekranin alt %40'inda (ust kisim profil vs tarafindan kapanabilir)
 - Font: Buyuk, okunabilir (min 24px)
 - Arka plan: Foto uzerine yari saydam renk katmani

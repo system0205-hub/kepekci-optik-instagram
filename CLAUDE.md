@@ -84,15 +84,30 @@ Ray-Ban, Prada, Miu Miu, Versace, Burberry, Giorgio Armani, Persol, Oakley, Jimm
 - ACUVUE (Johnson & Johnson) — gunluk, aylik, torik, multifokal
 - Air Optix Aqua (Alcon) — aylik, nefes alan silikon hidrojel
 
+### SGK Recete Hizmeti (EKLENDI 8 Nisan 2026)
+- Kepekci Optik SGK recete hizmeti VERIYOR
+- Bunu web sitesi + Instagram bio + GBP hizmetler bolumunde MUTLAKA belirt
+- Atik Optik'in bu alandaki tek avantaj noktasini boylece kirdik
+- "SGK reçeteli gozluk", "SGK anlaşmalı optik" anahtar kelimelerini SEO'da kullan
+
 ### Cok Satanlar
 Miu Miu 54ZS, Miu Miu 54YS, Prada 15WS
 
 ### Miyopi Kontrol Avantaji (FARKLILASTIRICI)
-- Kepekci Optik Kilis'te 3 FARKLI miyopi kontrol cami sunan TEK magaza
+- Kepekci Optik Kilis'te 3 FARKLI miyopi kontrol cami sunan optik magaza
 - Essilor Stellest: Dunya lideri, klinik kanitli, H.A.L.T. teknolojisi
 - Zeiss MyoCare: Alman teknolojisi, C.A.R.E. teknolojisi
 - Novax Myopi-X: Turk yapimi, uygun fiyat secenegi
 - Bu 3'lu secenegi HER miyopi iceriginde vurgula
+- ONEMLI: "Kilis'te TEK" iddiasini KULLANMA — Kiliste baska optikciler de miyopi
+  kontrol cami satiyor. Bunun yerine su ifadeler kullanilabilir:
+  * "Kilis'te 3 farkli miyopi kontrol cami secenegi sunuyoruz"
+  * "Essilor Stellest, Zeiss MyoCare ve Novax Myopi-X yetkili saticiligimiz var"
+  * "3 dunya lideri miyopi kontrol teknolojisi tek adreste"
+- Farklilasma noktalari (dogru iddialar):
+  * 3 dunya lideri markanin UCUNU BIRDEN sunmak (cesitlilik avantaji)
+  * Essilor Stellest'in klinik kanitli %67 yavaslatma orani
+  * Detayli pupilla ve odak olcumu
 
 ---
 
@@ -407,7 +422,7 @@ Kullanici konu soyler (orn: "progresif cam")
   - Slide/sahne plani olustur
   |
   ADIM 4: PREMIUM TASARIM
-  - Pencil veya Canva'da tasarim olustur
+  - Pencil'da tasarim olustur (Canva ASLA kullanilmaz)
   - Toplanan gorselleri tasarima entegre et
   - Katmanli tasarim: gorsel + overlay + gradient + metin + logo
   - Brand Kit renkleri + fontlari kullan
@@ -439,7 +454,7 @@ Kullanici konu soyler (orn: "progresif cam")
 1. Kullanicinin kendi fotograflari (magaza, urun — varsa)
 2. Marka resmi gorselleri (Ray-Ban, Prada vb. press kit)
 3. Unsplash/Pexels (ucretsiz, yuksek kalite stok)
-4. AI uretim (Pencil G komutu, Canva AI — son care)
+4. AI uretim (Pencil G komutu — son care)
 
 ### Assets Klasor Yapisi
 ```

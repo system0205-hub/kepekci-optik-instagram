@@ -1,0 +1,230 @@
+================================================================================
+GÖREV 5 — Schema Markup'ı Google Tag Manager ile Ekle
+================================================================================
+GTM hesabı zaten kuruldu.
+GTM Container ID: GTM-KSXLL2NW
+Şu anki ekran: GTM kurulum kodları gösteriliyor.
+
+Bu talimat 3 kısımdan oluşur:
+A) ikas'a GTM kodlarını yükleme
+B) GTM'de Schema Tag oluşturma
+C) Yayınlama ve doğrulama
+
+================================================================================
+KISIM A — GTM Kodlarını ikas'a Yükle
+================================================================================
+
+ÖNEMLİ: ikas'ın <head> ve <body> alanlarına ayrı ayrı kod koymamız gerekiyor.
+Eğer ikas'ta hazır bir "Google Tag Manager" entegrasyonu varsa onu kullan, yoksa
+Custom HTML/Pixel alanına manuel ekle.
+
+ADIM A1 — ikas'ta GTM Entegrasyonu Var mı Kontrol Et
+-----------------------------------------------------
+1. ikas Admin paneline git: https://kepekcioptik.myikas.com/admin
+2. Sol menüden şu yolları SIRAYLA dene:
+   a) Pazarlama → Pikseller / Tracking Codes
+   b) Ayarlar → Entegrasyonlar
+   c) Online Mağaza → Tema → Tema Ayarları → Custom Code
+   d) Online Mağaza → Tercihler → Tracking Codes
+3. "Google Tag Manager" veya "GTM" alanı ARA
+
+EĞER HAZIR GTM ALANI BULURSAN (en kolay yol):
+- Container ID girmeyi ister: GTM-KSXLL2NW yaz
+- Kaydet → Yayınla
+- KISIM A bitti, KISIM B'ye geç
+
+EĞER HAZIR GTM ALANI YOKSA:
+- Aşağıdaki ADIM A2'ye geç (Custom Header/Footer ile manuel ekleme)
+
+
+ADIM A2 — Custom Code İle Manuel Ekleme (eğer hazır GTM alanı yoksa)
+---------------------------------------------------------------------
+1. ikas Admin → Online Mağaza → Tema → "Tema Düzenle" veya "Custom Code"
+2. "Header Code" veya "Custom <head>" alanını bul
+3. Bu alana TAM olarak şu kodu yapıştır:
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KSXLL2NW');</script>
+<!-- End Google Tag Manager -->
+
+4. "Body Code" veya "After Opening Body" alanını bul
+5. Bu alana şu kodu yapıştır:
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KSXLL2NW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+6. KAYDET → YAYINLA
+
+EĞER İKİ ALAN DA BULAMAZSAN:
+- ikas destek ekibine yaz: "Google Tag Manager kodumu (GTM-KSXLL2NW) head ve body
+  alanlarına ekleyebilir misiniz?"
+- Bu arada KISIM B'yi yapmaya devam et — schema tag'ı GTM'de hazır olsun, ikas'a
+  kod eklenince otomatik çalışmaya başlar
+
+
+================================================================================
+KISIM B — GTM'de Schema Tag Oluştur
+================================================================================
+
+Şu an açık olan GTM ekranında bu adımları izle:
+
+ADIM B1 — Yeni Tag Oluştur
+---------------------------
+1. GTM'nin "Yükleme talimatları" pop-up'ını KAPAT (X butonu)
+2. Sol menüden "Etiketler" (Tags) sekmesine tıkla
+3. "Yeni" (New) butonuna tıkla
+4. Sağ üstteki tag adı alanına yaz: Optician Schema - Kepekçi Optik
+
+ADIM B2 — Tag Tipini Seç
+-------------------------
+1. "Etiket Yapılandırması" (Tag Configuration) kutusuna tıkla
+2. Açılan listede en altta "Özel" (Custom) bölümünü bul
+3. "Özel HTML" (Custom HTML) seç
+4. HTML alanı açılacak
+
+ADIM B3 — Schema Kodunu Yapıştır
+---------------------------------
+HTML alanına AŞAĞIDAKİ kodu TAM olarak yapıştır (script tag'leri dahil):
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Optician",
+  "name": "Kepekçi Optik",
+  "image": "https://kepekcioptik.com/logo.png",
+  "logo": "https://kepekcioptik.com/logo.png",
+  "url": "https://kepekcioptik.com",
+  "telephone": "+905069055570",
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Albay İbrahim Karaoğlanoğlu, Ömer Halisdemir Cd, Beka Korupark Evleri D:31/B",
+    "addressLocality": "Kilis Merkez",
+    "addressRegion": "Kilis",
+    "postalCode": "79000",
+    "addressCountry": "TR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "36.7184",
+    "longitude": "37.1212"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+      "opens": "09:00",
+      "closes": "19:30"
+    }
+  ],
+  "sameAs": [
+    "https://www.instagram.com/kepekcioptik",
+    "https://www.facebook.com/kepekcioptik"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "Kilis"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Optik Hizmetler",
+    "itemListElement": [
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pupilla ve Odak Ölçümü"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Progresif Cam Satışı"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Miyopi Kontrol Camı"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Kontakt Lens Satışı"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Gözlük Çerçevesi Satışı"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Ücretsiz Gözlük Bakımı ve Ayarı"}}
+    ]
+  },
+  "brand": [
+    {"@type": "Brand", "name": "Essilor"},
+    {"@type": "Brand", "name": "Zeiss"},
+    {"@type": "Brand", "name": "Crizal"},
+    {"@type": "Brand", "name": "Novax"},
+    {"@type": "Brand", "name": "Kodak"},
+    {"@type": "Brand", "name": "Nikon"},
+    {"@type": "Brand", "name": "Ray-Ban"},
+    {"@type": "Brand", "name": "Prada"},
+    {"@type": "Brand", "name": "Miu Miu"},
+    {"@type": "Brand", "name": "Oakley"},
+    {"@type": "Brand", "name": "Versace"}
+  ]
+}
+</script>
+
+ADIM B4 — Tetikleyiciyi Ayarla
+-------------------------------
+1. Aşağıdaki "Tetikleyici" (Triggering) kutusuna tıkla
+2. Açılan listeden "Tüm Sayfalar" (All Pages) seç
+3. (Bu schema her sayfada görünmeli — ana sayfa, blog, ürün — hepsinde)
+
+ADIM B5 — Kaydet
+-----------------
+1. Sağ üstteki "Kaydet" (Save) butonuna tıkla
+2. Tag listesinde "Optician Schema - Kepekçi Optik" göründüğünü doğrula
+
+
+================================================================================
+KISIM C — Yayınla ve Doğrula
+================================================================================
+
+ADIM C1 — Workspace'i Yayınla
+------------------------------
+1. Sağ üstteki "Gönder" (Submit) butonuna tıkla
+2. Açılan ekranda:
+   - Sürüm Adı (Version Name): Initial Optician Schema
+   - Sürüm Açıklaması: Kepekçi Optik için Optician schema markup eklendi
+3. "Yayınla" (Publish) butonuna tıkla
+4. Onay bekle (birkaç saniye)
+
+ADIM C2 — Schema'yı Test Et
+----------------------------
+1. Yeni sekmede aç: https://search.google.com/test/rich-results
+2. URL alanına yaz: https://kepekcioptik.com
+3. "URL'yi Test Et" butonuna tıkla
+4. 30-60 saniye bekle
+5. Sonucu kontrol et:
+   - "Optician" tipinin tanındığını gör
+   - HATA varsa screenshot al, mağaza sahibine gönder
+   - UYARI varsa not al ama kritik değil
+   - "Geçerli öğe" yazıyorsa BAŞARILI ✅
+
+ADIM C3 — Sonuç
+----------------
+Başarılıysa mağaza sahibine bildir:
+"Schema markup başarıyla eklendi ve doğrulandı. Google bu schema'yı önümüzdeki
+1-7 gün içinde indeksleyecek ve kepekcioptik.com'u 'Optician' (gözlükçü/optik
+mağaza) olarak tanıyacak. Bu yerel SEO için kritik bir adım."
+
+================================================================================
+GÖREV 4 (DÜZELTME) — /blog Sayfası Hâlâ 301 Redirect Veriyor
+================================================================================
+
+Site canlı kontrolünde:
+- /blog → 301 yönlendirme ile ana sayfaya gidiyor (HÂLÂ SORUNLU)
+- Title "ikas" çıkıyor (SEO ayarı kaydedilmemiş)
+
+YAPILACAK:
+1. ikas Admin → Online Mağaza → URL Yönlendirmeleri (URL Redirects)
+2. Eğer "/blog → /" yönlendirmesi varsa SİL
+3. Online Mağaza → Sayfalar veya Blog → Blog Anasayfa
+4. Bu sayfayı aç → SEO bölümüne git
+5. Yeniden gir:
+   - SEO Başlığı: Blog & Optik Rehberi | Kilis Kepekçi Optik
+   - Meta Açıklaması: Kepekçi Optik blog: gözlük seçimi, miyopi kontrol, progresif cam, kontakt lens, güneş gözlüğü ve mavi ışık filtresi rehberleri. Kilis'in uzman optik bilgi kaynağı.
+6. KAYDET butonuna tıkla
+7. ÇIKMADAN ÖNCE "Yayınla" görene kadar bekle
+8. Yayınla → Tarayıcıyı temizle → https://kepekcioptik.com/blog test et
+
+Doğrulama: /blog adresine gidince ana sayfaya yönlendirilmemeli, blog listesi açılmalı.
+
+================================================================================
+SON
+================================================================================

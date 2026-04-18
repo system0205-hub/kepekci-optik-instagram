@@ -90,7 +90,7 @@ Yeni hastane yolu uzeri, Kilis
 #progresifcam #kilisoptik #gozluk
 ```
 
-## Canva Tasarim Notu
+## Pencil Tasarim Notu
 - Tum slide'lar AYNI gorsel dil (renk, font, stil)
 - Arka plan: Beyaz veya acik gri (temiz)
 - Numara daireleri: Turkuaz (#2EC4B6) daire icinde beyaz rakam

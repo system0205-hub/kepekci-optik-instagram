@@ -15,3 +15,13 @@ desktop.ini
 
 # Task scheduler batch files
 scripts/tasks/
+
+# Buyuk video dosyalari (GitHub 100MB limit)
+*.mp4
+*.mov
+*.avi
+
+# Hassas reklam performans verileri
+meta reklam verileri/
+*.xlsx
+

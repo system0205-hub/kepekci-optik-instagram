@@ -1,0 +1,499 @@
+================================================================================
+KEPEKÇİ OPTİK — TEK SEFERDE TÜM WEB SİTESİ DÜZELTMELERİ
+================================================================================
+Bu talimatı Claude Chrome eklentisine ver.
+ikas paneline (https://kepekcioptik.myikas.com/admin) GİRİLİ olduğundan emin ol.
+Sırayla 5 görev var. Her birini bitirdiğinde "TAMAM" de, sonrakine geç.
+
+================================================================================
+KULLANILACAK GÖRSELLER (ÖNCEDEN HAZIRLANDI)
+================================================================================
+Bu talimatla birlikte 2 adet blog kapak görseli hazırlandı. Konum:
+
+c:\Users\Edu\Desktop\Claude yapılan uygulamalar\Ai ile İnstagram\exports\blog-kapaklari\
+
+DOSYALAR:
+1. 01-kilis-gozlukcu-rehberi-kapak.png
+   - Boyut: 2400x1260px (1200x630 @ 2x — Open Graph standardı)
+   - Kullanılacak yer: GÖREV 1 — Yeni "Kilis Gözlükçü Rehberi" blogu
+   - Alt metin (alt text): Kilis'te gözlükçü seçim rehberi - Kepekçi Optik
+
+2. 02-gunes-gozlugu-uv-koruma-kapak.png
+   - Boyut: 2400x1260px (1200x630 @ 2x — Open Graph standardı)
+   - Kullanılacak yer: GÖREV 2 — Güneş Gözlüğü UV Koruma blogu (genişletme)
+   - Alt metin (alt text): Güneş gözlüğü UV koruma rehberi - Kepekçi Optik Kilis
+
+ÖNEMLİ:
+- Bu PNG'leri ikas'ta her blog yazısının "Öne çıkarılmış görsel" (featured image) alanına yükle
+- Alt metni MUTLAKA Türkçe ve anahtar kelimeli yaz (Google Image Search için kritik)
+- Dosya adlarını DEĞİŞTİRME — Google dosya adını da SEO sinyali olarak kullanır
+- Yükleme adımları her görev içinde tekrar belirtilmiştir
+
+================================================================================
+GÖREV 1 — YENİ BLOG EKLE: "Kilis Gözlükçü & Optik Rehberi"
+================================================================================
+
+ikas Admin → Online Mağaza → Blog → Yeni Blog Yazısı
+
+URL (slug): kilis-gozlukcu-optik-rehberi
+Title (SEO Başlığı): Kilis Gözlükçü & Optik | Gözlük Seçim Rehberi | Kepekçi Optik
+Meta Description: Kilis'te gözlükçü arıyorsanız doğru adrestesiniz. Ray-Ban, Prada, Essilor Stellest, Zeiss yetkili satıcısı Kepekçi Optik. Gözlük seçim rehberi, yetkili satıcılık, pupilla ölçümü. 0506 905 55 70
+
+Yazı Başlığı (H1): Kilis'te Gözlükçü Seçerken Bilmeniz Gereken Her Şey
+
+İÇERİK (KOPYALA-YAPIŞTIR — formatlamayı koru, başlıkları H2/H3 yap):
+
+---İÇERİK BAŞLANGIÇ---
+
+Kilis'te gözlük almak istiyorsunuz ama nereden başlayacağınızı bilmiyor musunuz? Doğru gözlükçüyü seçmek, sadece güzel bir çerçeve bulmak değildir. Cam kalitesi, yetkili satıcılık, ölçüm hassasiyeti ve satış sonrası hizmet — bunların hepsi gözlük memnuniyetinizi doğrudan etkiler.
+
+Bu yazıda Kilis'te gözlük alırken dikkat etmeniz gereken kriterleri, cam ve çerçeve seçim ipuçlarını ve sık sorulan soruların cevaplarını bulacaksınız.
+
+## Gözlükçü Seçerken Nelere Dikkat Etmelisiniz?
+
+### 1. Yetkili Satıcılık Belgesi
+
+Gözlük camı sağlığınızı doğrudan etkiler. Dünya markası camları (Essilor, Zeiss, Nikon gibi) sadece yetkili satıcılardan almak, orijinal ürün garantisi ve garanti kapsamı anlamına gelir.
+
+Kepekçi Optik olarak yetkili satıcısı olduğumuz cam markaları:
+
+- **Essilor** — Dünya lideri, Stellest miyopi kontrol, Varilux progresif, Eyezen dijital göz camı
+- **Zeiss** — Alman teknolojisi, MyoCare miyopi kontrol, DriveSafe sürüş camı
+- **Novax** — %100 Türk yapımı, uygun fiyat progresif ve Myopi-X miyopi kontrol
+- **Kodak** — Total Blue mavi ışık filtresi, polarize cam
+- **Nikon** — Japon hassasiyeti, fotokromik ve progresif cam
+- **Crizal** — Sapphire 360 ve Prevencia mavi ışık koruma kaplamaları
+- **VisionArt** — Transitions fotokromik, Drivewear sürüş camı
+
+### 2. Çerçeve Marka Çeşitliliği
+
+Yüzünüze uygun çerçeveyi bulmak için geniş bir koleksiyon şart. Tek marka ile sınırlı kalmak, doğru modeli kaçırmanıza neden olabilir.
+
+Mağazamızdaki çerçeve markaları: Ray-Ban, Prada, Miu Miu, Versace, Burberry, Giorgio Armani, Persol, Oakley, Jimmy Choo, Tiffany & Co, Swarovski, Ralph Lauren, Emporio Armani, Dolce & Gabbana, Michael Kors, Oliver Peoples ve daha fazlası.
+
+### 3. Pupilla ve Odak Ölçümü
+
+Gözlük camının doğru çalışması için pupilla mesafesi ve odak noktasının hassas ölçülmesi gerekir. Bu ölçümler özellikle progresif cam kullananlar için kritik öneme sahiptir.
+
+Kepekçi Optik olarak dijital pupilla ölçüm cihazımızla milimetrik hassasiyette ölçüm yapıyoruz. Kilis'te bu hizmeti sunan nadir mağazalardan biriyiz.
+
+### 4. Satış Sonrası Hizmet
+
+Gözlük aldıktan sonra hikaye bitmez. Çerçeve ayarı, vida değişimi, burunluk ayarı, cam temizliği — bunların hepsi gözlüğünüzün ömrünü uzatır.
+
+Kepekçi Optik'te satış sonrası hizmetlerimiz:
+
+- Ücretsiz gözlük ayarı ve bakımı (her zaman)
+- Ücretsiz burunluk ve vida değişimi
+- Ücretsiz ultrasonik cam temizliği
+- Gözlük danışmanlığı
+
+## Hangi Gözlük Camı Size Uygun?
+
+Gözlük camı seçimi, göz numaranıza ve yaşam tarzınıza bağlıdır. İşte temel cam türleri:
+
+### Tek Odak Cam
+
+Sadece uzağı veya sadece yakını düzeltir. Miyopi, hipermetropi veya astigmat için kullanılır. En yaygın cam türüdür.
+
+### Progresif Cam
+
+40 yaşından sonra yakın görme zorluğu başladığında tercih edilir. Tek camda uzak, orta ve yakın mesafe görüşü sağlar. Eski bifokallerdeki çirkin çizgi yoktur. Detaylı bilgi için Progresif Cam Nedir yazımıza göz atabilirsiniz.
+
+### Miyopi Kontrol Camı
+
+Çocuklarda miyopi artışını yavaşlatan özel cam teknolojileri. Kilis'te 3 farklı miyopi kontrol camı sunan tek mağaza Kepekçi Optik'tir: Essilor Stellest, Zeiss MyoCare ve Novax Myopi-X.
+
+### Güneş Gözlüğü Camı
+
+UV400 koruma ve polarize özellik arayın. Tezgah ürünlerinden uzak durun — UV filtresi olmayan koyu cam, gözlerinize gözlüksüz olmaktan daha fazla zarar verir.
+
+## Yüz Şeklinize Göre Çerçeve Seçimi
+
+Doğru çerçeve yüzünüzü aydınlatır, yanlış çerçeve yorgun gösterir:
+
+- **Oval yüz:** Şanslısınız, çoğu çerçeve yakışır. Dikdörtgen ve geometrik modeller özellikle iyi durur.
+- **Yuvarlak yüz:** Köşeli ve kare çerçeveler yüzünüze açı katar. Cat-eye modeller de çok yakışır.
+- **Kare yüz:** Yuvarlak ve oval çerçeveler sert hatlarınızı yumuşatır. Aviator klasik bir seçimdir.
+- **Kalp yüz:** Alt kısmı geniş çerçeveler ve rimless modeller dengeyi sağlar.
+
+Hangi yüz şekline sahip olduğunuzdan emin değilseniz, mağazamıza gelin beraber bulalım. Çerçeve danışmanlığımız ücretsizdir.
+
+## Kilis'te Kepekçi Optik Farkı
+
+Kepekçi Optik olarak Kilis'te fark yaratan hizmetlerimiz:
+
+- **18+ dünya markası çerçeve** — Ray-Ban'dan Prada'ya, Versace'den Oakley'ye
+- **7 farklı cam markası yetkili satıcılığı** — Essilor, Zeiss, Novax, Kodak, Nikon, Crizal, VisionArt
+- **Kilis'te TEK miyopi kontrol merkezi** — 3 farklı cam teknolojisi
+- **Kontakt lens** — ACUVUE (Johnson & Johnson) ve Air Optix Aqua (Alcon) yetkili satıcısı
+- **Dijital pupilla ölçümü** — milimetrik hassasiyet
+- **Ömür boyu ücretsiz bakım** — ayar, temizlik, burunluk değişimi
+
+## Sıkça Sorulan Sorular
+
+### Gözlük camı ne kadar süre dayanır?
+
+Ortalama 2-3 yıl. Numara değişirse veya kaplama aşınırsa yenilenmesi gerekir. Doğru bakım ile ömrü uzar.
+
+### Gözlüğümü internetten mi mağazadan mı almalıyım?
+
+Mağazadan almanızı öneririz. Pupilla ölçümü, çerçeve ayarı ve cam kalitesi kontrolü ancak yüz yüze yapılabilir. Özellikle progresif cam kullanıcıları için bu kritiktir.
+
+### Çocuğumun miyopisi artıyor, ne yapmalıyım?
+
+Önce göz doktoruna götürün. Sonra miyopi kontrol camları hakkında bilgi almak için mağazamıza gelin. Essilor Stellest, Zeiss MyoCare ve Novax Myopi-X seçeneklerini birlikte değerlendirelim.
+
+### Gözlük alırken garanti var mı?
+
+Cam ve çerçeve markalarının kendi garantileri vardır. Yetkili satıcıdan aldığınızda bu garanti geçerli olur. Kepekçi Optik olarak tüm ürünlerimiz orijinal garantilidir.
+
+### Kilis'te gözlükçü hangi saatlerde açık?
+
+Kepekçi Optik Pazartesi-Cumartesi 09:00-19:30 arasında hizmet vermektedir. Pazar günleri kapalıdır.
+
+---
+
+**Kepekçi Optik — Gözünüz Bizde Olsun**
+
+Albay İbrahim Karaoğlanoğlu, Ömer Halisdemir Cd, Beka Korupark Evleri D:31/B, 79000 Kilis Merkez/Kilis (Yeni Hastane Yolu üzeri)
+
+Telefon: 0506 905 55 70
+Web: kepekcioptik.com
+Instagram: @kepekcioptik
+
+---İÇERİK BİTİŞ---
+
+Etiketler: kilis gözlükçü, kilis optik, gözlük rehberi, kilis kepekçi optik
+Kategori: Optik Rehberi
+
+ÖNE ÇIKARILMIŞ GÖRSEL (FEATURED IMAGE) — ZORUNLU:
+Dosya yolu: exports/blog-kapaklari/01-kilis-gozlukcu-rehberi-kapak.png
+Alt metin (alt text): Kilis'te gözlükçü seçim rehberi - Kepekçi Optik
+Yükleme adımları:
+1. ikas blog editöründe sağdaki "Öne çıkarılmış görsel" panelini aç
+2. "Görsel yükle" butonuna tıkla
+3. Yukarıdaki PNG dosyasını seç ve yükle
+4. Alt metin alanına yukarıdaki metni yaz
+5. Kaydet
+
+KAYDET → YAYINLA
+
+================================================================================
+GÖREV 2 — MEVCUT BLOG'U GENİŞLET: "Güneş Gözlüğü UV Koruma"
+================================================================================
+
+ikas Admin → Online Mağaza → Blog → "Güneş Gözlüğü UV Koruma Kilis" yazısını aç → Düzenle
+
+MEVCUT İÇERİĞİ TAMAMEN SİL ve aşağıdaki YENİ İÇERİK ile değiştir.
+
+URL aynı kalsın: gunes-gozlugu-uv-koruma-kilis
+Title aynı kalsın: Güneş Gözlüğü UV Koruma Kilis | Ray-Ban, Prada, Oakley | Kepekçi Optik
+Meta Description aynı kalsın.
+
+YENİ İÇERİK:
+
+---İÇERİK BAŞLANGIÇ---
+
+Kilis gibi güneş ışınlarının yıl boyu yoğun olduğu bir şehirde, doğru güneş gözlüğü seçimi sadece moda değil, **göz sağlığınız** için zorunludur. Bu yazıda UV ışınlarının zararlarını, doğru güneş gözlüğü nasıl seçilir, polarize ve UV400 farkı nedir, hangi marka neden tercih edilmelidir — hepsini açıklıyoruz.
+
+## Güneş Gözlüğünüzün UV Koruması Var mı?
+
+UV ışınları gözlerinize ciddi zararlar verebilir: katarakt, pterygium (göze et büyümesi), maküla dejenerasyonu (sarı nokta hastalığı) ve göz çevresi cilt kanseri riski. Özellikle Kilis gibi güneşli şehirlerde **UV korumalı güneş gözlüğü şart**.
+
+Türkiye'de yaz aylarında UV indeksi sıklıkla 9-10 seviyelerine çıkar. Bu seviyede çıplak gözle güneşe bakmak değil, bulutlu havada bile koruma şart.
+
+## UV Işınları Neden Tehlikeli?
+
+UV ışınları üç türdür:
+
+- **UVA (320-400 nm):** En uzun dalga boyu, gözün derin tabakalarına ulaşır. Maküla dejenerasyonuna ve uzun vadeli görme kaybına neden olur.
+- **UVB (280-320 nm):** Korneayı yakar (fotokeratit denilen "kar körlüğü"). Kısa süreli yoğun maruziyet bile zarar verir.
+- **UVC (100-280 nm):** Atmosfer tarafından filtrelenir, normalde göze ulaşmaz.
+
+**Önemli:** UV ışınları camı, suyu, kumu ve karı yansıtır. Kilis'in açık havalarında binaların beyaz duvarları bile UV yansıtır. Yani gölgede otururken bile gözleriniz UV alıyor.
+
+## Ucuz Güneş Gözlüğü Neden Tehlikelidir?
+
+Pazardan veya tezgâhtan alınan ucuz güneş gözlüklerinin %90'ında UV filtresi YOKTUR. Sadece koyu renkli camdır. Bu durumda gözünüze şu olur:
+
+1. Cam koyu olduğu için **gözbebeğiniz genişler** (karanlığa uyum sağlamak için)
+2. Genişlemiş gözbebeği daha fazla ışık alır
+3. UV filtresi olmadığı için **çıplak gözden bile fazla UV emer**
+4. Sonuç: **Ucuz güneş gözlüğü, gözlüksüz olmaktan daha tehlikelidir.**
+
+Bu nedenle Kepekçi Optik olarak müşterilerimize her zaman **orijinal marka, sertifikalı UV400 koruma** sağlayan güneş gözlükleri öneriyoruz.
+
+## UV400 Nedir? CE Sertifikası Yeterli mi?
+
+**UV400**, 400 nanometreye kadar tüm UV ışınlarını (%99.9) bloke eden uluslararası cam standardıdır. Orijinal marka güneş gözlüklerinin tamamında UV400 koruması bulunur.
+
+CE sertifikası ise Avrupa'da satılan tüm güneş gözlüklerinin uyması gereken minimum standarttır ve **UV korumayı garanti etmez**. Sadece UV400 etiketi UV koruma garantisidir.
+
+**Kontrol:** Güneş gözlüğünüzün üzerinde "UV400" veya "100% UV protection" etiketi yoksa, gözleriniz risk altındadır.
+
+## Polarize Cam Nedir? Normal Camdan Farkı?
+
+Polarize cam, yatay yansıyan ışığı (suyun, asfaltın, araba kaputunun parıltısı) bloke eden özel filtreli camdır. Avantajları:
+
+- **Yansıma azalır** — sürüş güvenliği artar
+- **Renkler daha canlı görünür**
+- **Göz yorgunluğu azalır**
+- **Su altındaki nesneler daha iyi görünür** (balıkçılar için ideal)
+
+Polarize cam özellikle **sürücüler, balıkçılar, kayakçılar ve sahil tatilinde** olmazsa olmazdır. Kepekçi Optik'te Ray-Ban, Oakley ve Maui Jim polarize modelleri bulunur.
+
+## Cam Rengi Hangisini Seçmeliyim?
+
+Güneş gözlüğü camı rengi sadece estetik değil, fonksiyoneldir:
+
+- **Gri:** Doğal renkleri korur, en yaygın seçim. Genel kullanım için ideal.
+- **Kahverengi/Amber:** Kontrastı artırır, derinlik algısını güçlendirir. Sürücüler için harika.
+- **Yeşil:** Renkleri dengelı tutar, gözü dinlendirir. Uzun süreli kullanım için.
+- **Sarı:** Sisli ve düşük ışıkta kontrast artırır. Spor kullanımı için.
+- **Ayna kaplama:** Yoğun güneş için ekstra parlaklık azaltır. Plaj ve kar sporları için.
+
+## Çocuklar İçin Güneş Gözlüğü Şart mı?
+
+**EVET, kesinlikle.** Çocuk gözü erişkin gözünden daha hassastır. 18 yaşına kadar gözün aldığı UV miktarının %50'si 0-18 yaş arasında alınır. Bu nedenle:
+
+- 1 yaşından itibaren çocuklara UV korumalı güneş gözlüğü kullandırın
+- Mutlaka **kırılmaz cam** veya polikarbonat tercih edin
+- **CE ve UV400** etiketli olmalı
+- Yüzüne tam oturmalı, yandan ışık girmemeli
+
+Kepekçi Optik'te çocuk güneş gözlüğü çeşitlerimiz mevcuttur.
+
+## Kilis'te Orijinal Güneş Gözlüğü — Kepekçi Optik
+
+Kepekçi Optik'te tüm güneş gözlükleri %100 orijinal ve UV400 sertifikalıdır:
+
+- **Ray-Ban** — Klasik Aviator, Wayfarer, Clubmaster, Justin modelleri
+- **Prada** — Lüks tasarım, kadın ve erkek koleksiyonları
+- **Miu Miu** — Trend, feminen, genç koleksiyonu
+- **Oakley** — Spor performans, Prizm teknolojisi, koşu/bisiklet/balıkçılık
+- **Versace** — Gösterişli, ikonik Medusa logosu
+- **Dolce & Gabbana** — İtalyan şıklığı, kadın özel tasarımlar
+- **Burberry** — İngiliz klasik, kareli desen detayları
+- **Persol** — İtalyan zanaat, klasik aviator
+- **Jimmy Choo** — Lüks kadın koleksiyonu
+- **Michael Kors** — Trend, uygun fiyat lüks
+- **Oliver Peoples** — Vintage estetik, premium
+- **Arnette** — Spor ve genç tarzı
+
+## Güneş Gözlüğü Seçerken 5 Altın Kural
+
+1. **UV400 etiketi olmalı** — Bu olmadan satın almayın.
+2. **Yüz şeklinize uygun çerçeve seçin** — Yuvarlak yüze köşeli, kare yüze yuvarlak.
+3. **Cam rengi günlük ihtiyacınıza uygun olmalı** — Sürücü iseniz polarize kahverengi.
+4. **Polarize cam tercih edin** — Özellikle sürücüler ve sahil için.
+5. **Orijinal marka tercih edin** — Gözleriniz buna değer, ucuz alternatif risklidir.
+
+## Güneş Gözlüğüm Numaralı Olabilir mi?
+
+EVET. Kepekçi Optik'te numaralı güneş gözlüğü yapımı mümkündür. Mevcut güneş gözlüğü çerçevenize numaralı UV korumalı cam takılabilir veya direkt numaralı güneş gözlüğü siparişi verilebilir. Detaylar için mağazamıza gelin.
+
+## Sıkça Sorulan Sorular
+
+### Pahalı güneş gözlüğü almaya değer mi?
+
+Orijinal markalar UV400 koruma, kaliteli kaplamalar, dayanıklı çerçeve ve uzun garanti sunar. 2-3 ucuz güneş gözlüğü yerine 1 orijinal marka alarak hem gözlerinizi koruyup hem yıllarca kullanabilirsiniz.
+
+### Polarize cam herkese uygun mu?
+
+Pilotlar ve LCD ekran kullananlar (bazı navigasyon sistemleri) polarize camdan rahatsız olabilir. Onun dışında herkese önerilir.
+
+### Bulutlu havada güneş gözlüğü gerekir mi?
+
+Evet. UV ışınları bulutları geçer. Yaz aylarında bulutlu havada bile UV indeksi yüksek olabilir.
+
+---
+
+**Kepekçi Optik — Gözünüz Bizde Olsun**
+
+Albay İbrahim Karaoğlanoğlu, Ömer Halisdemir Cd, Beka Korupark Evleri D:31/B, 79000 Kilis Merkez/Kilis (Yeni Hastane Yolu üzeri)
+
+Telefon: 0506 905 55 70
+Web: kepekcioptik.com
+Instagram: @kepekcioptik
+
+---İÇERİK BİTİŞ---
+
+ÖNE ÇIKARILMIŞ GÖRSEL (FEATURED IMAGE) — ZORUNLU:
+Dosya yolu: exports/blog-kapaklari/02-gunes-gozlugu-uv-koruma-kapak.png
+Alt metin (alt text): Güneş gözlüğü UV koruma rehberi - Kepekçi Optik Kilis
+Yükleme adımları:
+1. ikas blog editöründe sağdaki "Öne çıkarılmış görsel" panelini aç
+2. Mevcut görseli KALDIR (varsa)
+3. "Görsel yükle" butonuna tıkla
+4. Yukarıdaki PNG dosyasını seç ve yükle
+5. Alt metin alanına yukarıdaki metni yaz
+6. Kaydet
+
+KAYDET → GÜNCELLE
+
+================================================================================
+GÖREV 3 — DÜZELT: "Optik Bilgi" Sayfası Title ve Meta
+================================================================================
+
+ikas Admin → Online Mağaza → Blog → "Optik Bilgi" yazısını aç → Düzenle
+
+DEĞİŞTİR:
+Title (SEO Başlığı): Optik Bilgi & Rehber Kilis | Gözlük, Cam, Lens Rehberi | Kepekçi Optik
+Meta Description: Gözlük camları, kontakt lens, miyopi kontrol, progresif cam ve güneş gözlüğü hakkında uzman bilgileri. Kilis'te Kepekçi Optik'ten optik rehberi.
+
+KAYDET → GÜNCELLE
+
+================================================================================
+GÖREV 4 — DÜZELT: /blog Sayfası Yönlendirmesi
+================================================================================
+
+Şu an https://kepekcioptik.com/blog adresi ana sayfaya 301 yönlendiriyor. Bu SEO için kötü.
+
+ikas Admin → Online Mağaza → Sayfalar (veya Blog Ayarları)
+
+YAPILACAK:
+1. /blog URL'si tüm blog yazılarını listeleyen bir "Blog Listesi" sayfasına yönlendirilmeli.
+2. ikas'ta blog modülü varsa, Blog Index sayfası otomatik oluşturulur. Tema ayarlarından bu sayfayı aktif et.
+3. Eğer tema bunu desteklemiyorsa: /blog adresine yeni bir sayfa oluştur. Başlığı "Blog & Optik Rehberi" olsun. İçinde tüm blog yazılarına linkler ver.
+
+Sayfa Title: Blog & Optik Rehberi | Kilis Kepekçi Optik
+Meta Description: Kepekçi Optik blog: gözlük seçimi, miyopi kontrol, progresif cam, kontakt lens, güneş gözlüğü ve mavi ışık filtresi rehberleri. Kilis'in uzman optik bilgi kaynağı.
+
+İçerik (eğer manuel sayfa oluşturmak gerekirse):
+
+---SAYFA İÇERİĞİ---
+
+# Blog & Optik Rehberi
+
+Kepekçi Optik blogunda gözlük, cam, kontakt lens ve göz sağlığı hakkında uzman bilgilerini bulabilirsiniz. Kilis'te 30+ yıllık optik tecrübemizle hazırladığımız rehberler:
+
+## Gözlük Seçim Rehberi
+- [Kilis'te Gözlükçü Seçerken Bilmeniz Gerekenler](/blog/kilis-gozlukcu-optik-rehberi)
+- [Progresif Cam Nedir? Kimler Kullanmalı?](/blog/progresif-cam-nedir-kilis)
+
+## Çocuk Göz Sağlığı
+- [Çocuklarda Miyopi Kontrol — Stellest, MyoCare, Myopi-X](/blog/cocuklarda-miyopi-kontrol-kilis)
+
+## Güneş Gözlüğü
+- [Güneş Gözlüğü UV Koruma — Ray-Ban, Prada, Oakley](/blog/gunes-gozlugu-uv-koruma-kilis)
+
+## Modern Cam Teknolojileri
+- [Mavi Işık Filtresi — Crizal Prevencia, Zeiss BlueGuard](/blog/mavi-isik-filtresi-kilis)
+
+## Kontakt Lens
+- [Kontakt Lens Rehberi — ACUVUE, Air Optix Aqua](/blog/kontakt-lens-kilis)
+
+---
+
+Sorularınız için: 0506 905 55 70 veya mağazamıza bekleriz.
+
+Adres: Albay İbrahim Karaoğlanoğlu, Ömer Halisdemir Cd, Beka Korupark Evleri D:31/B, 79000 Kilis Merkez/Kilis (Yeni Hastane Yolu üzeri)
+
+---SAYFA BİTİŞ---
+
+KAYDET → YAYINLA
+
+================================================================================
+GÖREV 5 — DÜZELT: Schema Markup (KRİTİK SEO)
+================================================================================
+
+Şu an siteye gömülü Store schema'da telefon ve adres BOŞ. Bu Google için büyük eksik.
+
+ikas Admin → Tema → Tema Düzenle → Theme.liquid VEYA Head.liquid (en üstteki layout dosyası)
+
+YAPILACAK: <head> içinde mevcut bir <script type="application/ld+json"> bloku varsa onu SİL ve aşağıdaki YENİ schema'yı ekle:
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Optician",
+  "name": "Kepekçi Optik",
+  "image": "https://kepekcioptik.com/logo.png",
+  "logo": "https://kepekcioptik.com/logo.png",
+  "url": "https://kepekcioptik.com",
+  "telephone": "+905069055570",
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Albay İbrahim Karaoğlanoğlu, Ömer Halisdemir Cd, Beka Korupark Evleri D:31/B",
+    "addressLocality": "Kilis Merkez",
+    "addressRegion": "Kilis",
+    "postalCode": "79000",
+    "addressCountry": "TR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "36.7184",
+    "longitude": "37.1212"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+      "opens": "09:00",
+      "closes": "19:30"
+    }
+  ],
+  "sameAs": [
+    "https://www.instagram.com/kepekcioptik",
+    "https://www.facebook.com/kepekcioptik"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "Kilis"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Optik Hizmetler",
+    "itemListElement": [
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pupilla ve Odak Ölçümü"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Progresif Cam Satışı"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Miyopi Kontrol Camı"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Kontakt Lens Satışı"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Gözlük Çerçevesi Satışı"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Ücretsiz Gözlük Bakımı ve Ayarı"}}
+    ]
+  },
+  "brand": [
+    {"@type": "Brand", "name": "Essilor"},
+    {"@type": "Brand", "name": "Zeiss"},
+    {"@type": "Brand", "name": "Crizal"},
+    {"@type": "Brand", "name": "Novax"},
+    {"@type": "Brand", "name": "Kodak"},
+    {"@type": "Brand", "name": "Nikon"},
+    {"@type": "Brand", "name": "Ray-Ban"},
+    {"@type": "Brand", "name": "Prada"},
+    {"@type": "Brand", "name": "Miu Miu"},
+    {"@type": "Brand", "name": "Oakley"},
+    {"@type": "Brand", "name": "Versace"}
+  ]
+}
+</script>
+
+NOT: Logo URL'sini doğru yere işaret ettiğinden emin ol. Eğer ikas'ta logo farklı bir CDN URL'sindeyse onu kullan.
+
+KAYDET → Önizleme → Yayınla
+
+DOĞRULAMA:
+1. https://search.google.com/test/rich-results adresine git
+2. https://kepekcioptik.com URL'sini gir
+3. "Optician" tipinin doğru tanındığını kontrol et
+4. Hata varsa düzelt
+
+================================================================================
+TÜM GÖREVLER TAMAMLANINCA
+================================================================================
+
+Kontrol et:
+1. https://kepekcioptik.com/blog/kilis-gozlukcu-optik-rehberi → 200 OK ✅
+2. https://kepekcioptik.com/blog/gunes-gozlugu-uv-koruma-kilis → İçerik genişledi ✅
+3. https://kepekcioptik.com/blog/optik-bilgi → Yeni title ✅
+4. https://kepekcioptik.com/blog → Listing sayfası açılıyor ✅
+5. https://search.google.com/test/rich-results → Optician schema OK ✅
+
+Bittiğinde mağaza sahibine "Hepsi tamam, Google Search Console'a yeni URL'leri submit et" diye haber ver.
+
+================================================================================
+SON
+================================================================================

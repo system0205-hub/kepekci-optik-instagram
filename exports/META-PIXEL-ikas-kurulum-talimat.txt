@@ -1,0 +1,126 @@
+================================================================================
+META PIXEL ikas KURULUM — Claude Chrome Eklentisi Talimatı
+================================================================================
+Bu talimatı Claude Chrome eklentisine ver.
+2 panel açık olmalı:
+1. ikas Admin: https://kepekcioptik.myikas.com/admin
+2. Meta Business Manager: https://business.facebook.com
+
+================================================================================
+GÖREV 1 — Meta'da Pixel Oluştur (henüz yoksa)
+================================================================================
+
+1. https://business.facebook.com adresine git
+2. Sol menüden "Events Manager" (Etkinlik Yöneticisi) seç
+3. "Connect Data Sources" (Veri Kaynağı Bağla) → "Web" seç
+4. "Connect" (Bağla) butonuna tıkla
+5. "Create a new dataset" (Yeni veri kümesi oluştur) seç
+6. İsim: Kepekçi Optik Pixel
+7. Website URL: https://kepekcioptik.com
+8. "Create" (Oluştur) tıkla
+9. **PIXEL ID'SINI KOPYALA** — 15-16 haneli sayı (örn: 1234567890123456)
+
+Bu ID'yi KAYDET, ikas'a girerken kullanacağız.
+
+================================================================================
+GÖREV 2 — ikas'ta Meta Pixel Aktifleştir
+================================================================================
+
+ikas'ın Meta entegrasyonu var. Manuel kod eklemene gerek yok.
+
+1. ikas Admin Panel'e git
+2. Sol menüden "Pazarlama" (Marketing) → "Facebook ve Instagram" seç
+   VEYA
+   "Ayarlar" → "Entegrasyonlar" → "Meta" / "Facebook" bölümünü bul
+3. "Pixel Bağla" veya "Meta Pixel Entegrasyonu" butonunu tıkla
+4. Adım adım gelen ekranda:
+   - Facebook hesabınla giriş yap
+   - Kepekçi Optik Business Manager'ı seç
+   - Kepekçi Optik Pixel'i seç (az önce oluşturduğun)
+5. "Bağla" ve "Onayla" tıkla
+6. Kaydet
+
+Eğer ikas'ın hazır Meta entegrasyonunu bulamazsan:
+
+ALTERNATIF — Google Tag Manager ile Pixel Ekle
+------------------------------------------------
+GTM zaten kurulu (GTM-KSXLL2NW). Pixel'i GTM üzerinden de ekleyebiliriz:
+
+1. https://tagmanager.google.com → Kepekci Optik workspace
+2. "Etiketler" → "Yeni"
+3. Tag adı: Meta Pixel - Kepekçi Optik
+4. Tag Configuration → "Facebook Pixel" template ara
+5. Yoksa "Custom HTML" seç ve şu kodu yapıştır:
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', 'BURAYA_PIXEL_ID_YAZ');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=BURAYA_PIXEL_ID_YAZ&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+NOT: "BURAYA_PIXEL_ID_YAZ" yerine gerçek Pixel ID'yi koy (15-16 haneli sayı).
+
+6. Trigger: "All Pages"
+7. Save
+8. Submit → Publish
+
+================================================================================
+GÖREV 3 — Meta Pixel Doğrulama
+================================================================================
+
+Pixel'in çalıştığını kontrol et:
+
+1. Chrome'a "Meta Pixel Helper" extension'ı kur:
+   https://chromewebstore.google.com/detail/meta-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc
+
+2. kepekcioptik.com adresini aç
+3. Sağ üstte Meta Pixel Helper ikonu yeşil "1 pixel found" göstermeli
+4. Tıkla → "PageView" event'i gelmeli
+
+Eğer yeşil değilse:
+- 5 dakika bekle (cache yenilenmesi)
+- Tekrar dene
+- Hala olmuyorsa kurulum hatası var, tekrar kontrol et
+
+================================================================================
+GÖREV 4 — Conversion API (Önerilir ama opsiyonel)
+================================================================================
+
+iOS 14.5 sonrası iPhone kullanıcıları Pixel takibini engelleyebiliyor.
+Conversion API (CAPI) bu soruna çözüm — satın almayı ikas'tan direkt Meta'ya
+gönderiyor. ikas'ın bu entegrasyonu varsa hemen aç:
+
+1. ikas Admin → Pazarlama → Facebook ve Instagram
+2. "Conversion API" veya "CAPI" bölümünü bul
+3. Aktif et
+4. Access Token iste → Meta Business Manager'dan "System User Token" üret:
+   - business.facebook.com → Settings → Users → System Users
+   - "Add" → "Name: ikas CAPI, Role: Admin"
+   - "Generate New Token" → Asset: Pixel
+   - Token'ı kopyala → ikas'a yapıştır
+
+================================================================================
+BİTTİĞİNDE
+================================================================================
+
+Mağaza sahibine rapor:
+- Pixel ID: [buraya yaz]
+- Pixel durum: Aktif
+- CAPI durum: [Aktif / Henüz Değil]
+- Meta Pixel Helper testi: BAŞARILI ✅
+
+================================================================================
+SON
+================================================================================

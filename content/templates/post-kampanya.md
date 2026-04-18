@@ -54,7 +54,7 @@ Yeni hastane yolu uzeri, Kilis
 #indirim #kilis #gunesgozlugu
 ```
 
-## Canva Tasarim Notu
+## Pencil Tasarim Notu
 - Arka plan: Canli renkler (altin gradient, turkuaz, veya kirmizi tonlar)
 - Indirim orani: Buyuk font, kirmizi (#E63946) veya altin (#F4A261)
 - Sure/tarih: Vurgulu, aciliyet hissi

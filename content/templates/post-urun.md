@@ -54,7 +54,7 @@ Yeni hastane yolu uzeri, Kilis
 #miumiu #kilisoptik #gunesgozlugu
 ```
 
-## Canva Tasarim Notu
+## Pencil Tasarim Notu
 - Arka plan: Beyaz veya marka rengine uygun gradient
 - Urun foto: Merkez, buyuk, net
 - Marka logosu: Ust kisim (kucuk)

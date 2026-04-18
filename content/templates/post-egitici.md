@@ -52,7 +52,7 @@ Yeni hastane yolu uzeri, Kilis
 #progresifcam #kilisoptik #gozluk
 ```
 
-## Canva Tasarim Notu
+## Pencil Tasarim Notu
 - Arka plan: Beyaz veya acik gri
 - Baslik: Turkuaz (#2EC4B6), Montserrat Bold
 - Metin: Koyu gri (#3A3A3A), Open Sans

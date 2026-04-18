@@ -284,7 +284,7 @@ Sen ekrana çıkmıyorsun, sadece EL + ÜRÜN + MAKİNE çek:
 ## NOTLAR
 
 - Her post için ayrı açıklama metni + hashtag dosyası oluşturulacak
-- Tasarımlar Pencil/Canva'da hazırlanacak
+- Tasarımlar Pencil'da hazırlanacak (Canva ASLA kullanılmaz)
 - Her içerik exports/instagram-yayinlari/ klasörüne kaydedilecek
 - Google yayınları exports/google-yayinlari/ klasörüne kaydedilecek
 - Çekim yapılamayan içerikler stok görsel + AI tasarım ile tamamlanır

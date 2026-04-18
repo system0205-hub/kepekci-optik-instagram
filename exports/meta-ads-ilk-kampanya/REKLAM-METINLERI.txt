@@ -1,0 +1,102 @@
+═══════════════════════════════════════════════════════════════
+KEPEKÇİ OPTİK — META ADS REKLAM METİNLERİ
+═══════════════════════════════════════════════════════════════
+
+3 reklam — her biri farklı görsel + metin.
+Kopyala-yapıştır için hazırlandı.
+
+Hedef URL (3 reklamda da aynı):
+https://maps.app.goo.gl/ksHZg9u8xMxkA23SA
+
+CTA Butonu (3 reklamda da aynı):
+Yol Tarifi Al (Get Directions)
+
+
+═══════════════════════════════════════════════════════════════
+REKLAM 1 — BRAND AWARENESS
+═══════════════════════════════════════════════════════════════
+
+Görsel (kare):  AD1-Brand-Awareness.png
+Görsel (dikey): AD1-Brand-Awareness-REELS.png
+Reklam adı:     AD1 Brand Awareness — Varyasyon 1.1
+
+Ana Metin:
+Kilis'te gözlüğün adresi Kepekçi Optik. Dünyaca ünlü markalar, miyop önleyici çocuk camları ve SGK reçete hizmeti tek adreste. Gözünüz bizde olsun. 👓
+
+Başlık:
+Kilis'in Gözlükçüsü
+
+Açıklama:
+Dünyaca ünlü markalar · SGK reçete
+
+
+═══════════════════════════════════════════════════════════════
+REKLAM 2 — GÜNEŞ GÖZLÜĞÜ SEZONU
+═══════════════════════════════════════════════════════════════
+
+Görsel (kare):  AD2-Gunes-Gozlugu.png
+Görsel (dikey): AD2-Gunes-Gozlugu-REELS.png
+Reklam adı:     AD2 Gunes Gozlugu — Varyasyon 2.1
+
+Ana Metin:
+Yaz geldi, güneş gözlüğünüz hazır mı? ☀️ Ray-Ban, Prada, Oakley, Versace, Burberry ve daha fazlası Kepekçi Optik'te. UV400 tam koruma, orijinal ürün garantisi.
+
+Başlık:
+Yaz Güneş Gözlüğü
+
+Açıklama:
+UV400 koruma · Orijinal
+
+
+═══════════════════════════════════════════════════════════════
+REKLAM 3 — DÜNYACA ÜNLÜ MARKALAR
+═══════════════════════════════════════════════════════════════
+
+Görsel (kare):  AD3-Dunyaca-Unlu-Markalar.png
+Görsel (dikey): AD3-Dunyaca-Unlu-Markalar-REELS.png
+Reklam adı:     AD3 Dunyaca Unlu Markalar — Varyasyon 3.1
+
+Ana Metin:
+Dünyaca ünlü markaların yetkili satıcısı Kepekçi Optik. Ray-Ban, Prada, Miu Miu, Zeiss, Essilor ve daha fazlası. Orijinal, garantili, sertifikalı. 🏆
+
+Başlık:
+Yetkili Satıcınız
+
+Açıklama:
+Orijinal ürün garantisi
+
+
+═══════════════════════════════════════════════════════════════
+KURULUM TALİMATI (3 REKLAM)
+═══════════════════════════════════════════════════════════════
+
+AD1 zaten kurulu. AD2 ve AD3 için:
+
+1. Sol panelde AD1'in yanındaki ··· menüsüne tıkla
+2. "Hızlı çoğalt" (Ctrl+D) seç
+3. Kopyalanan reklamda şunları değiştir:
+   a. Reklam adını değiştir
+   b. Medya bölümünde görselleri değiştir (kare + dikey)
+   c. Ana Metin'i sil, yenisini yapıştır
+   d. Başlık'ı değiştir
+   e. Açıklama'yı değiştir
+4. URL ve CTA dokunma (otomatik gelir)
+5. AD3 için tekrarla
+6. 3 reklam hazır olunca "Yayınla" bas
+
+Toplam süre: ~10 dakika
+
+
+═══════════════════════════════════════════════════════════════
+ÖZET KART
+═══════════════════════════════════════════════════════════════
+
+Kampanya:        Kepekci Optik — Genel Trafik
+Reklam seti:     Kilis 25-55 — Genel Hedef
+Bütçe:           100 TL/gün (aylık 3000 TL)
+Süre:            30 gün (9 Nisan - 9 Mayıs 2026)
+Hedef kitle:     Kilis + 20 km, 18-65 yaş
+Reklam sayısı:   3
+Hedef URL:       https://maps.app.goo.gl/ksHZg9u8xMxkA23SA
+CTA:             Yol Tarifi Al
+Pixel:           Kepekçi Optik Pixel (835203442235362)
