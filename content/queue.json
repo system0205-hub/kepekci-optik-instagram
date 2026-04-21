@@ -165,7 +165,9 @@
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1776517567/kepekci-optik/04-avantajlari.jpg",
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1776517569/kepekci-optik/05-iletisim.jpg"
     ],
-    "status": "pending",
-    "added_at": "2026-04-18 16:06"
+    "status": "published",
+    "added_at": "2026-04-18 16:06",
+    "media_id": "18118536355656987",
+    "published_at": "2026-04-21 20:50"
   }
 ]
