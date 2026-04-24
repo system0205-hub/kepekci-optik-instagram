@@ -74,7 +74,13 @@ Ana metin: "Çocuğun göz lensi yetişkine göre daha ince ve saydamdır. UV ı
 Alt kutu: "Mağazamızda çocuk boy UV400 güneş gözlükleri de mevcut."
 
 SLIDE 5 — CTA / İLETİŞİM:
-Arka plan: Mağaza fotoğrafı (dukkan.jpeg, blur 8px, turkuaz overlay %55)
+Arka plan: KEPEKÇİ OPTİK MAĞAZA DIŞ CEPHE FOTOĞRAFI (kullanıcının sohbete yüklediği foto)
+  - Foto TAM EKRAN, center-cropped
+  - Blur 6px (mağaza tabelası/cephesi tanınabilir ama yumuşak)
+  - Dıştan içe gradient vignette: kenarlarda koyu turkuaz #2EC4B6 %70 opaklık,
+    merkeze doğru açılıp foto görünür hale geçsin (radial gradient)
+  - Ek üst-alt gradient: üstten ve alttan turkuaz→şeffaf geçiş (metinlerin okunması için)
+  - Toplam efekt: foto belirgin ama metinler ön planda net okunsun
 Üst başlık: "Orijinal & UV400 Sertifikalı Güneş Gözlükleri"
 Alt başlık (altın): "Kepekçi Optik'te Bekleriz"
 
