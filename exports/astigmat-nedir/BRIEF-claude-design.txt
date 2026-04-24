@@ -1,0 +1,107 @@
+================================================================
+CLAUDE DESIGN BRIEF — ASTİGMAT NEDİR? BELİRTİLERİ NELERDİR?
+================================================================
+Planlanan Yayın: Perşembe 30 Nisan 2026, 19:00
+Tip: Instagram Carousel (5 slide)
+Boyut: 1080x1350 (dikey)
+
+KULLANIM:
+1. claude.ai/design aç (Kepekçi Optik projesine gir)
+2. Aşağıdaki brief'i sohbet kutusuna yapıştır
+3. Tasarım bitince "Export → Send to Claude Code" → handoff URL'ini
+   bana gönder
+================================================================
+
+
+Kepekçi Optik için 5 slide'lık Instagram carousel tasarla.
+Boyut: 1080x1350 (dikey)
+Konu: "Astigmat Nedir? Belirtileri ve Çözümü"
+
+GENEL STİL (önceki carousel'lerle aynı düzen):
+- Ana renk: Turkuaz #2EC4B6
+- Aksan: Altın/amber #F4A261 (vurgu için)
+- Koyu gri #3A3A3A metin, beyaz veya soft gradient arka plan
+- Başlık: Montserrat Bold, metin: Open Sans
+- Her slide sağ altta Logo.png 130px
+- Her slide altında BELİRGİN telif yazısı: "© 2026 Kepekçi Optik — İzinsiz kopyalanamaz, paylaşılamaz" (Open Sans 11px, bold, beyaz %45 opaklık)
+- Kapak ve son slide'da diyagonal "© KEPEKÇİ OPTİK" watermark (pattern, %8 opaklık, 45°)
+- Üstte 5 dot slide navigator, sağ üstte slide numarası (01/05)
+
+SLIDE 1 — KAPAK (HOOK):
+Büyük başlık: "Her Şey Bulanık mı Görünüyor?"
+Alt vurgu: "Belki de ASTİGMAT sizde varlar"
+Küçük altın vurgu: "Belirtileri nasıl anlarsınız? 👇"
+Arka plan: Turkuaz gradient + çift görüntü/bulanık illustrasyon (astigmat simülasyonu — yazıların kenarları silik/çift)
+"KAYDIR →" sağ altta
+
+SLIDE 2 — ASTİGMAT NEDİR:
+Başlık: "Astigmat Nedir?"
+Ana metin: "Gözün kornea ya da lensinin futbol topu gibi tam yuvarlak değil — rugby topu gibi ÇİFT eğrili olmasıdır. Bu yüzden ışık, retinada tek bir noktaya odaklanamaz, görüntü bulanık veya çift görünür."
+
+Görsel diyagram:
+→ SOL: NORMAL GÖZ (yuvarlak kornea, ışık tek noktada odaklanıyor, net)
+→ SAĞ: ASTİGMAT GÖZ (oval kornea, ışık iki noktada, bulanık)
+
+Alt küçük bilgi: "Astigmat genelde miyopi veya hipermetropi ile birlikte görülür."
+
+SLIDE 3 — BELİRTİLERİ (MÜŞTERİDE FARKINDALIK):
+Başlık: "Astigmat Belirtileri"
+6 madde (2x3 grid veya dikey liste):
+👓 Yazıların kenarı silik/çift görünüyor
+💡 Gece lamba/trafik ışıkları yıldız gibi dağılıyor
+🔤 Uzaktaki tabela ve yazılar seçilemiyor
+😵 Baş ağrısı ve göz yorgunluğu sık oluyor
+📖 Uzun okumada gözler yanıyor
+🚗 Gece araba sürmek zorlaşıyor
+
+Alt kutu (altın): "Bu belirtilerden 2+ varsa pupilla ölçümü için mağazamıza gelin."
+
+SLIDE 4 — ÇÖZÜMÜ:
+Başlık: "Astigmat Nasıl Düzeltilir?"
+3 büyük kart:
+1. 👓 TORIK CAMLI GÖZLÜK — "Farklı yönlerde farklı odak gücü olan özel cam"
+2. 👁️ TORİK KONTAKT LENS — "Gün içinde gözlüksüz rahat görüş (ACUVUE mağazamızda)"
+3. 💎 PREMİUM CAM MARKALARI — "Essilor Varilux Xclusive, Zeiss, Crizal, Kodak torik seçenekleri"
+
+Alt kutu (turkuaz): "Astigmat cam reçetesinde eksen (axis) ve silindir (cyl) değeri olmalıdır. Biz uzman gözetmenliğinde gözlük danışmanlığı yapıyoruz."
+
+SLIDE 5 — CTA / İLETİŞİM:
+Arka plan: Mağaza fotoğrafı (dukkan.jpeg, blur 6px, radyal turkuaz gradient)
+Üst başlık: "Astigmat Gözlüğünüz Kepekçi Optik'te"
+Alt başlık (altın): "Yetkili Satıcısıyız"
+
+4 yetkili satıcı marka: Essilor · Zeiss · Crizal · Kodak (torik cam markaları)
+ACUVUE kontakt lens rozet
+
+Güven mesajı: "✅ Astigmat reçetenize özel torik cam seçimi için gözlük danışmanlığı veriyoruz."
+
+İletişim kartı:
+📍 Albay İbrahim Karaoğlanoğlu, Ömer Halisdemir Cd, Beka Korupark Evleri D:31/B, Kilis Merkez (Yeni Hastane Yolu üzeri)
+📞 0506 905 55 70
+🌐 kepekcioptik.com
+📷 @kepekcioptik
+
+Altın CTA buton: "ASTİGMAT GÖZLÜĞÜNÜZ İÇİN MAĞAZAMIZA BEKLERİZ →"
+En altta telif yazısı
+
+TELİF / MARKA KORUMA (ZORUNLU):
+- Her slide'da telif yazısı + logo ZORUNLU
+- Kapak ve son slide'da diyagonal watermark zorunlu
+- İzinsiz paylaşım/kopyalama yasak, görsel olarak vurgulansın
+
+KRİTİK YASAKLAR:
+- "Göz muayenesi", "göz numarası ölçümü" YASAK → "pupilla ölçümü" veya "gözlük danışmanlığı" kullan
+- "Astigmat teşhisi koyarız" YASAK — sadece gözlük camı danışmanlığı yapılabilir
+- "Kilis'te tek" iddiası yasak
+- Rakipleri isim vererek hedefleme yasak
+
+
+================================================================
+NOTLAR
+================================================================
+- Yayın planı: Perşembe 19:00 (prime time eğitici içerik)
+- Hashtag önerisi:
+  #kilis #kilisoptik #kilisgozluk #kilismerkez #kilisliler
+  #kepekcioptik #gozunuzbizdeolsun #astigmat #gozsagligi #torikCam
+- Rakip analizinde Kilis optikçilerin hiçbiri astigmatı işlememiş → farklılaştırıcı
+- Astigmat arama hacmi yüksek, az sayıda kaliteli içerik var

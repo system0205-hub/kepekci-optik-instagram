@@ -1,0 +1,116 @@
+================================================================
+CLAUDE DESIGN BRIEF — FOTOKROMİK CAM NEDİR? (TRANSITIONS)
+================================================================
+Planlanan Yayın: Cumartesi 2 Mayıs 2026, 10:00
+Tip: Instagram Carousel (5 slide)
+Boyut: 1080x1350 (dikey)
+
+KULLANIM:
+1. claude.ai/design aç (Kepekçi Optik projesine gir)
+2. Aşağıdaki brief'i sohbet kutusuna yapıştır
+3. Tasarım bitince "Export → Send to Claude Code" → handoff URL'ini
+   bana gönder
+================================================================
+
+
+Kepekçi Optik için 5 slide'lık Instagram carousel tasarla.
+Boyut: 1080x1350 (dikey)
+Konu: "Fotokromik Cam Nedir? Tek Gözlükle Hem Gündüz Hem Gece"
+
+GENEL STİL (önceki carousel'lerle aynı düzen):
+- Ana renk: Turkuaz #2EC4B6
+- Aksan: Altın/amber #F4A261 + güneş/aydınlatma efekti için sıcak tonlar
+- Başlık: Montserrat Bold, metin: Open Sans
+- Her slide sağ altta Logo.png 130px
+- Her slide altında telif yazısı + watermark (standart format)
+- Üstte slide dots, sağ üstte slide numarası
+
+SLIDE 1 — KAPAK (HOOK):
+Büyük başlık: "Tek Gözlük — İki Dünya"
+Alt vurgu: "İçeride net görüş, dışarıda güneş gözlüğü"
+Küçük altın vurgu: "Fotokromik cam nasıl çalışır? 👇"
+Arka plan: Turkuaz gradient + yarı yarıya cam görseli (sol: şeffaf, sağ: koyulaşmış — fotokromik efekti)
+"KAYDIR →" sağ altta
+
+SLIDE 2 — FOTOKROMİK CAM NEDİR:
+Başlık: "Fotokromik Cam Nedir?"
+Ana metin: "UV ışıkla otomatik olarak koyulaşan, kapalı alanda şeffaflaşan akıllı camlardır. Güneşe çıktığınızda 30 saniyede güneş gözlüğüne dönüşür, içeride saniyeler içinde normal gözlük olur."
+
+Görsel şema: 3 aşamalı cam gösterimi
+☀️ DIŞARIDA (UV) → Koyulaşmış cam (%80 koyuluk) — GÜNEŞ GÖZLÜĞÜ
+🌤️ ARABADA → Orta koyuluk (%50) — hafif tonlu
+🏠 İÇERİDE → Şeffaf (normal gözlük)
+
+Alt küçük bilgi: "UV400 koruma zaten dahil — ekstra güneş gözlüğü gerekmez."
+
+SLIDE 3 — AVANTAJLARI:
+Başlık: "Neden Fotokromik?"
+4 büyük kart (2x2 grid):
+1. 🎒 TEK GÖZLÜK — "Güneş + reçeteli gözlük ayrımı bitti"
+2. 🛡️ UV400 DAHİL — "Ekstra güneş gözlüğü gerek yok"
+3. 💪 HER YAŞA UYGUN — "Çocuk, yetişkin, yaşlı — herkes kullanabilir"
+4. 🚗 OTOMATİK GEÇİŞ — "Manuel takıp çıkarma yok"
+
+Alt kutu (altın): "Özellikle presbiyopi + güneş koruma ihtiyacı olanlar için ideal."
+
+SLIDE 4 — MARKALAR VE TEKNOLOJİLER:
+Başlık: "Dünya Liderleri Mağazamızda"
+3 büyük kart (marka bazlı):
+
+🏆 TRANSITIONS (Essilor)
+- Fotokromik kategorisinin dünya lideri
+- GEN 9 teknolojisi (en hızlı koyulaşma)
+- Polarize fotokromik seçenekleri
+- Signature, XTRActive, Drivewear serileri
+
+🏆 ZEISS PHOTOFUSION
+- Alman mühendisliği
+- Hızlı geçiş + parlak renkler
+- DriveSafe Plus (araç sürüşü için)
+
+🏆 KODAK, NIKON, VISIONART
+- Alternatif ekonomik seçenekler
+- Progresif + fotokromik kombinasyonu
+
+Alt küçük not: "Camlarınız kişiye özel üretilir — pupilla ölçümü ve gözlük danışmanlığı için mağazaya bekleriz."
+
+SLIDE 5 — CTA / İLETİŞİM:
+Arka plan: Mağaza fotoğrafı (dukkan.jpeg, blur 6px, radyal turkuaz gradient)
+Üst başlık: "Fotokromik Gözlüğünüz Kepekçi Optik'te"
+Alt başlık (altın): "Dünya Liderleri Yetkili Satıcısı"
+
+4 marka rozeti: Essilor Transitions · Zeiss · Kodak · Nikon
+VisionArt + Crizal (kaplama) eklenebilir
+
+Güven mesajı: "✅ Kişiye özel fotokromik cam danışmanlığı. Tek gözlük — iki dünya."
+
+İletişim kartı:
+📍 Albay İbrahim Karaoğlanoğlu, Ömer Halisdemir Cd, Beka Korupark Evleri D:31/B, Kilis Merkez (Yeni Hastane Yolu üzeri)
+📞 0506 905 55 70
+🌐 kepekcioptik.com
+📷 @kepekcioptik
+
+Altın CTA buton: "FOTOKROMİK GÖZLÜĞÜNÜZ İÇİN BEKLERİZ →"
+En altta telif yazısı
+
+TELİF / MARKA KORUMA (ZORUNLU):
+- Her slide'da telif yazısı + logo
+- Kapak ve son slide'da diyagonal watermark
+- İzinsiz paylaşım yasağı vurgulanacak
+
+KRİTİK YASAKLAR:
+- "Göz muayenesi" YASAK → "pupilla ölçümü" veya "gözlük danışmanlığı"
+- "Kilis'te tek" iddiası yasak
+- "Transitions = tüm fotokromik markaları" söyleme — Transitions bir marka adıdır
+- Rakipleri isim vererek hedefleme yasak
+
+
+================================================================
+NOTLAR
+================================================================
+- Yayın planı: Cumartesi 10:00 (sabah prime time)
+- Hashtag önerisi:
+  #kilis #kilisoptik #kilisgozluk #kilismerkez #kilisliler
+  #kepekcioptik #gozunuzbizdeolsun #fotokromik #transitions #progresifcam
+- Hedef kitle: presbiyopi olan 40+ yaş + güneş koruma ihtiyacı olanlar
+- Premium cam satışını destekler (yüksek kâr marjı)
