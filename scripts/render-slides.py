@@ -2,20 +2,20 @@
 Claude Design HTML'inden her slide'i 1080x1350 PNG olarak kaydeder.
 Instagram carousel icin hazir dosyalar uretir.
 """
+import sys
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
-HTML = Path(r"c:\Users\Edu\Desktop\Claude yapılan uygulamalar\Ai ile İnstagram\exports\progresif-cam-nedir\design-source.html").resolve()
-OUT = HTML.parent
+# CLI: python render-slides.py <klasor> [name1,name2,...]
+FOLDER = Path(sys.argv[1] if len(sys.argv) > 1 else r"c:\Users\Edu\Desktop\Claude yapılan uygulamalar\Ai ile İnstagram\exports\progresif-cam-nedir").resolve()
+HTML = FOLDER / "design-source.html"
+OUT = FOLDER
 url = "file:///" + str(HTML).replace("\\", "/")
 
-SLIDE_NAMES = {
-    1: "01-kapak",
-    2: "02-nedir",
-    3: "03-kimler-kullanmali",
-    4: "04-avantajlari",
-    5: "05-iletisim",
-}
+# Isteğe bağlı slide isimleri
+_names_arg = sys.argv[2] if len(sys.argv) > 2 else "01,02,03,04,05"
+_names = _names_arg.split(",")
+SLIDE_NAMES = {i+1: n.strip() for i, n in enumerate(_names)}
 
 print(f"Rendering: {HTML.name}")
 
