@@ -29,12 +29,15 @@ with sync_playwright() as p:
     page.goto(url, wait_until="networkidle", timeout=60000)
     page.wait_for_timeout(6000)  # JS unpack icin bekle
 
-    # Her slide'i bul ve screenshot al
+    # Her slide'i bul, scroll et (JS nav state update), sonra screenshot al
     for i in range(1, 6):
         selector = f"section.slide.s{i}"
         try:
             page.wait_for_selector(selector, timeout=5000)
             element = page.locator(selector).first
+            # Kritik: scroll ile IntersectionObserver tetiklenir, nav dot aktif olur
+            element.scroll_into_view_if_needed()
+            page.wait_for_timeout(800)  # JS state update icin bekle
             out_path = OUT / f"{SLIDE_NAMES[i]}.png"
             element.screenshot(path=str(out_path))
             size_kb = out_path.stat().st_size // 1024
