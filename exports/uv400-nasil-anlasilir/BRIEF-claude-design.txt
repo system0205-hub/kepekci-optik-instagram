@@ -23,7 +23,11 @@ GENEL STİL (önceki carousel'lerle aynı düzen):
 - Aksan: Altın/amber #F4A261 + tehlike vurgusu için kırmızımsı turuncu #E67E4A
 - Başlık: Montserrat Bold, metin: Open Sans
 - Her slide sağ altta Logo.png 130px
-- Her slide altında ince telif yazısı
+- Her slide'ın en altında BELİRGİN telif yazısı (Open Sans 11px, bold, beyaz %45 opaklık):
+  "© 2026 Kepekçi Optik — İzinsiz kopyalanamaz, paylaşılamaz"
+- Kapak (Slide 1) ve İletişim (Slide 5) slide'larında ayrıca diyagonal watermark:
+  "© KEPEKÇİ OPTİK" arka planda %8 opaklık, 45° eğim, büyük tekrarlayan pattern
+  (metinlerin okunurluğunu bozmayacak şekilde subtle olmalı)
 - Üstte slide dots, sağ üstte slide numarası
 
 SLIDE 1 — KAPAK (HOOK — DİKKAT ÇEKİCİ):
@@ -88,6 +92,13 @@ Güven mesajı kutusu:
 
 Altın CTA buton: "ORİJİNAL GÖZLÜK İÇİN MAĞAZAMIZA BEKLERİZ →"
 En altta telif yazısı
+
+TELİF / MARKA KORUMA (ZORUNLU):
+- Bu tasarım Kepekçi Optik'in marka varlığıdır. Hiçbir slide'da mağaza adı eksik bırakılamaz.
+- Her slide'da telif yazısı + logo ZORUNLU (izinsiz alıntıya karşı iz bırakır)
+- Kapak ve son slide'da diyagonal watermark zorunlu (ekran görüntüsü/reupload olsa bile kimliği taşır)
+- Sosyal medyada başka bir mağaza/kişi tarafından izinsiz paylaşılamaz — bu uyarı görsel olarak da vurgulansın
+- Logo + telif yazısı TAM ÇERÇEVE İÇİNDE olmalı, kırpılmamalı
 
 KRİTİK YASAKLAR:
 - "Göz muayenesi" yasak → "gözlük danışmanlığı" kullan
