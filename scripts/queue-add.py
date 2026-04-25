@@ -36,7 +36,7 @@ def load_env():
     return env
 
 
-def upload_to_cloudinary(image_path, env):
+def upload_to_cloudinary(image_path, env, post_name=None):
     import cloudinary
     import cloudinary.uploader
 
@@ -50,10 +50,15 @@ def upload_to_cloudinary(image_path, env):
     ext = Path(image_path).suffix.lower()
     res_type = "video" if ext in [".mp4", ".mov", ".avi", ".webm"] else "image"
 
+    # public_id COLLISION FIX: post_name (klasor) ile alt-klasor olustur
+    # Onceden: kepekci-optik/01-kapak (her postta cakisma)
+    # Simdi:   kepekci-optik/<post-name>/01-kapak (her post izole)
+    folder = f"kepekci-optik/{post_name}" if post_name else "kepekci-optik"
+
     try:
         result = cloudinary.uploader.upload(
             image_path,
-            folder="kepekci-optik",
+            folder=folder,
             public_id=Path(image_path).stem,
             overwrite=True,
             resource_type=res_type
@@ -143,11 +148,12 @@ def add_to_queue(post_type, folder, schedule_str):
     caption = read_caption(folder_path)
     print(f"  Caption: {len(caption)} karakter")
 
-    # Cloudinary'ye yukle
-    print(f"\n  Cloudinary'ye yukleniyor...")
+    # Cloudinary'ye yukle (post_name = klasor adi -> public_id collision'i onler)
+    post_name = folder_path.name
+    print(f"\n  Cloudinary'ye yukleniyor (kepekci-optik/{post_name}/...)...")
     urls = []
     for f in media_files:
-        url = upload_to_cloudinary(str(f), env)
+        url = upload_to_cloudinary(str(f), env, post_name=post_name)
         if url:
             urls.append(url)
         else:

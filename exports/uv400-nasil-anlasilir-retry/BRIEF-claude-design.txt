@@ -1,0 +1,123 @@
+================================================================
+CLAUDE DESIGN BRIEF — UV400 NASIL ANLAŞILIR? (SAHTE GÖZLÜK)
+================================================================
+Planlanan Yayın: Cumartesi 25 Nisan 2026, 10:00
+Tip: Instagram Carousel (5 slide)
+Boyut: 1080x1350 (dikey)
+
+KULLANIM:
+1. claude.ai/design aç (Kepekçi Optik projesine gir)
+2. Aşağıdaki brief'i sohbet kutusuna yapıştır
+3. Tasarım bitince "Export → Send to Claude Code" → handoff URL'ini
+   bana gönder
+4. Ben render + JPG + queue.json + commit yaparım
+================================================================
+
+
+Kepekçi Optik için 5 slide'lık Instagram carousel tasarla.
+Boyut: 1080x1350 (dikey)
+Konu: "Aldığınız Güneş Gözlüğü Gerçek mi Sahte mi? UV400 Nasıl Anlaşılır?"
+
+GENEL STİL (önceki carousel'lerle aynı düzen):
+- Ana renk: Turkuaz #2EC4B6
+- Aksan: Altın/amber #F4A261 + tehlike vurgusu için kırmızımsı turuncu #E67E4A
+- Başlık: Montserrat Bold, metin: Open Sans
+- Her slide sağ altta Logo.png 130px
+- Her slide'ın en altında BELİRGİN telif yazısı (Open Sans 11px, bold, beyaz %45 opaklık):
+  "© 2026 Kepekçi Optik — İzinsiz kopyalanamaz, paylaşılamaz"
+- Kapak (Slide 1) ve İletişim (Slide 5) slide'larında ayrıca diyagonal watermark:
+  "© KEPEKÇİ OPTİK" arka planda %8 opaklık, 45° eğim, büyük tekrarlayan pattern
+  (metinlerin okunurluğunu bozmayacak şekilde subtle olmalı)
+- Üstte slide dots, sağ üstte slide numarası
+
+SLIDE 1 — KAPAK (HOOK — DİKKAT ÇEKİCİ):
+Büyük başlık: "Koyu Cam = Güvenli" DEĞİL!
+Alt başlık: "Sahte güneş gözlüğü, gözünüze hiç takmamaktan DAHA ZARARLI"
+Küçük altın vurgu: "Gerçeği nasıl anlarsınız? 👇"
+Arka plan: Turkuaz gradient + gözlük silueti (üstünde kırmızı çarpı işareti opsiyonel)
+"KAYDIR →" sağ altta
+
+SLIDE 2 — NEDEN TEHLİKELİ (ŞOK EDİCİ BİLGİ):
+Başlık: "Sahte Gözlük Neden Tehlikeli?"
+Ana açıklama metni:
+"Koyu renkli ama UV korumasız cam, pupillanızı genişletir. Normal hayatta pupilla ışıkla küçülerek UV girişini azaltır. Koyu cam takınca pupilla 'ışık az' sanıp açılır — ama UV hâlâ içeri giriyor!"
+
+Görsel şema: 3 senaryo
+☀️ ÇIPLAK GÖZ → Pupilla küçük, UV az girer
+🕶️ GERÇEK UV400 → Pupilla küçük, UV ENGELLENİR
+❌ SAHTE KOYU CAM → Pupilla büyük, UV BOL BOL GİRER (en tehlikeli)
+
+Alt uyarı kutusu (kırmızımsı arka plan, beyaz metin):
+"⚠️ Sahte gözlük = KATARAKT, MAKÜLER DEJENERASYON, GÖZ KANSERİ riski"
+
+SLIDE 3 — UV400 ETİKETİ NASIL KONTROL EDİLİR:
+Başlık: "Gerçek UV400 Gözlüğü Nasıl Anlarsınız?"
+
+5 maddelik kontrol listesi (büyük, numaralı):
+1️⃣ CE İŞARETİ — AB kalite standardı etiketi mutlaka olmalı
+2️⃣ UV400 / 100% UV YAZISI — camın kenarında veya saplarında yazılı
+3️⃣ KATEGORİ NUMARASI — 2, 3 veya 4 (güçlü koruma)
+4️⃣ YETKİLİ SATICI — marka rozeti/sertifikası mağazada görünmeli
+5️⃣ FİYAT — gerçek UV400 + polarize cam 500 TL altında değildir
+
+Alt küçük not (altın): "Tezgah/pazar gözlüklerinde bu etiketlerin HİÇBİRİ yoktur."
+
+SLIDE 4 — ÇOCUKLARDA ÇOK DAHA KRİTİK:
+Başlık: "Çocuklarda UV Koruması DAHA Kritik"
+Ana metin: "Çocuğun göz lensi yetişkine göre daha ince ve saydamdır. UV ışınları çocuk gözüne 3-5 kat daha kolay ulaşır."
+
+3 büyük kart:
+👶 0-5 YAŞ — "Deniz/kar ortamında mutlaka UV400"
+🧒 6-12 YAŞ — "Her yaz/dışarı aktivitesi için gerekli"
+👨‍👩‍👧 AİLE — "Tüm aile bireylerinin korunması lazım"
+
+Alt kutu: "Mağazamızda çocuk boy UV400 güneş gözlükleri de mevcut."
+
+SLIDE 5 — CTA / İLETİŞİM:
+Arka plan: KEPEKÇİ OPTİK MAĞAZA DIŞ CEPHE FOTOĞRAFI (kullanıcının sohbete yüklediği foto)
+  - Foto TAM EKRAN, center-cropped
+  - Blur 6px (mağaza tabelası/cephesi tanınabilir ama yumuşak)
+  - Dıştan içe gradient vignette: kenarlarda koyu turkuaz #2EC4B6 %70 opaklık,
+    merkeze doğru açılıp foto görünür hale geçsin (radial gradient)
+  - Ek üst-alt gradient: üstten ve alttan turkuaz→şeffaf geçiş (metinlerin okunması için)
+  - Toplam efekt: foto belirgin ama metinler ön planda net okunsun
+Üst başlık: "Orijinal & UV400 Sertifikalı Güneş Gözlükleri"
+Alt başlık (altın): "Kepekçi Optik'te Bekleriz"
+
+4 marka yetkili satıcı rozeti:
+Ray-Ban · Oakley · Prada · Miu Miu (hepsi UV400 garantili)
+
+Güven mesajı kutusu:
+"✅ Her gözlüğümüz ORİJİNAL ve UV400 sertifikalıdır. Sahte ürün satmıyoruz."
+
+İletişim kartı:
+📍 Albay İbrahim Karaoğlanoğlu, Ömer Halisdemir Cd, Beka Korupark Evleri D:31/B, Kilis Merkez (Yeni Hastane Yolu üzeri)
+📞 0506 905 55 70
+🌐 kepekcioptik.com
+📷 @kepekcioptik
+
+Altın CTA buton: "ORİJİNAL GÖZLÜK İÇİN MAĞAZAMIZA BEKLERİZ →"
+En altta telif yazısı
+
+TELİF / MARKA KORUMA (ZORUNLU):
+- Bu tasarım Kepekçi Optik'in marka varlığıdır. Hiçbir slide'da mağaza adı eksik bırakılamaz.
+- Her slide'da telif yazısı + logo ZORUNLU (izinsiz alıntıya karşı iz bırakır)
+- Kapak ve son slide'da diyagonal watermark zorunlu (ekran görüntüsü/reupload olsa bile kimliği taşır)
+- Sosyal medyada başka bir mağaza/kişi tarafından izinsiz paylaşılamaz — bu uyarı görsel olarak da vurgulansın
+- Logo + telif yazısı TAM ÇERÇEVE İÇİNDE olmalı, kırpılmamalı
+
+KRİTİK YASAKLAR:
+- "Göz muayenesi" yasak → "gözlük danışmanlığı" kullan
+- Rakipleri doğrudan isim vererek hedefleme (örn: "Atik Optik daha ucuz" gibi)
+- "Sadece biz gerçek satarız" iddiası YASAK — "Her gözlüğümüz orijinaldir" şeklinde söyle
+
+
+================================================================
+NOTLAR
+================================================================
+- Yayın planı: Cumartesi 10:00 (sabah prime time, hafta sonu)
+- Hashtag önerisi (ACIKLAMA.md'de kullanılacak):
+  #kilis #kilisoptik #kilisgozluk #kilismerkez #kilisliler
+  #kepekcioptik #gozunuzbizdeolsun #uvkoruma #gunesgozlugu #gozsagligi
+- Haftalık takvim: Sal-Per-Cmt kuralı (bu Cmt slot'u)
+- Sahte ürün farkındalığı → mağaza "orijinal satıcı" olarak öne çıksın
