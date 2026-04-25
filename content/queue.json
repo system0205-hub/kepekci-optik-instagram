@@ -200,8 +200,10 @@
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1777106297/kepekci-optik/uv400-nasil-anlasilir-retry/04-cocuklarda.jpg",
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1777106299/kepekci-optik/uv400-nasil-anlasilir-retry/05-iletisim.jpg"
     ],
-    "status": "pending",
-    "added_at": "2026-04-25 11:38"
+    "status": "published",
+    "added_at": "2026-04-25 11:38",
+    "media_id": "18338090938172054",
+    "published_at": "2026-04-25 11:49"
   },
   {
     "name": "polarize-cam-vs-normal",
