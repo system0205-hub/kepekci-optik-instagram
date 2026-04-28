@@ -217,7 +217,9 @@
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1777106317/kepekci-optik/polarize-cam-vs-normal/04-uyarilar.jpg",
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1777106319/kepekci-optik/polarize-cam-vs-normal/05-iletisim.jpg"
     ],
-    "status": "pending",
-    "added_at": "2026-04-25 11:38"
+    "status": "published",
+    "added_at": "2026-04-25 11:38",
+    "media_id": "18175028332401817",
+    "published_at": "2026-04-28 13:52"
   }
 ]
