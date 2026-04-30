@@ -1,0 +1,211 @@
+================================================================
+META ADS — YAZ SEZONU REKLAM SETİ (3 yeni creative)
+================================================================
+Hedef: Kilis 25-55, Trafik kampanyası
+Reklam seti adı önerisi: "Kilis 25-55 — Yaz Sezonu Eğitici"
+Bütçe önerisi: 100 TL/gün (mevcut güneş gözlüğü setine ek olarak)
+
+KURULUM YOLU:
+1. business.facebook.com → Ads Manager
+2. Mevcut "Kepekci Optik · Genel Trafik" kampanyasına gir
+3. "Reklam Seti Oluştur" → ayarları aşağıdaki şekilde
+4. 3 reklam ekle (her creative için bir reklam)
+================================================================
+
+
+══════════════════════════════════════════════════════════════
+REKLAM 1 — UV400 EĞİTİCİ
+══════════════════════════════════════════════════════════════
+
+CREATIVE: exports/uv400-nasil-anlasilir/01-kapak.jpg
+veya tüm 5 slide'ı carousel olarak yükle (öneri: carousel daha güçlü)
+
+REKLAM ADI: AD4 UV400 Eğitici · Varyasyon 4.1
+
+ANA METİN (Primary Text — 125 karakter limiti yok ama ilk 125 görünür):
+
+❗ Sahte güneş gözlüğü, gözünüze hiç takmamaktan DAHA tehlikelidir.
+
+Koyu cam pupillanızı genişletir — ama UV korumasız ise gözünüzün içine bol bol UV alır.
+
+Sonuç: katarakt, maküler dejenerasyon, göz kanseri riski 📈
+
+✅ Gerçek UV400 nasıl anlaşılır?
+1️⃣ CE işareti
+2️⃣ UV400 / 100% UV yazısı
+3️⃣ Kategori 2-3-4
+4️⃣ Yetkili satıcı
+5️⃣ Mantıklı fiyat (ucuza inanma)
+
+Kepekçi Optik — Kilis. Tüm gözlüklerimiz orijinal ve UV400 sertifikalı.
+
+📍 Yeni Hastane Yolu üzeri
+📞 0506 905 55 70
+
+BAŞLIK (Headline — 40 karakter):
+Sahte güneş gözlüğü tehlikeli
+
+AÇIKLAMA (Description — 30 karakter):
+UV400 sertifikalı orijinal
+
+CTA BUTON: "Daha Fazla Bilgi" veya "Yol Tarifi Al"
+
+URL: https://kepekcioptik.com (veya Google Maps URL'i)
+
+
+══════════════════════════════════════════════════════════════
+REKLAM 2 — POLARİZE FARK
+══════════════════════════════════════════════════════════════
+
+CREATIVE: exports/polarize-cam-vs-normal/02-fark-nedir.jpg (split A/B karşılaştırma)
+veya tüm 5 slide'ı carousel olarak
+
+REKLAM ADI: AD5 Polarize vs Normal · Varyasyon 5.1
+
+ANA METİN:
+
+✨ Parıltıya veda zamanı.
+
+Koyu cam giydiniz ama hâlâ deniz yansıması, araba kaputu parıltısı, ıslak yol gözünüzü yoruyor mu?
+
+Normal koyu cam SADECE ışığı azaltır.
+Polarize cam YATAY YANSIMALARI keser.
+
+❌ Normal cam: ışık az + parıltı sürer
+✅ Polarize cam: ışık az + parıltı YOK + renkler canlı
+
+🚗 Sürücüler — yol/ön cam parıltısı yok
+🎣 Balıkçılar — su altı net
+🏖️ Sahil — kum/su parıltısı azalır
+
+Kepekçi Optik — Kilis. Tüm polarize camlarımız UV400 sertifikalıdır (ikisi bir arada).
+
+Ray-Ban · Oakley · Prada · Persol · Versace yetkili satıcı.
+
+📍 Yeni Hastane Yolu üzeri
+📞 0506 905 55 70
+
+BAŞLIK:
+Polarize cam — parıltıya veda
+
+AÇIKLAMA:
+Yatay yansımaları keser, gözü dinlendirir
+
+CTA: "Daha Fazla Bilgi"
+
+URL: https://kepekcioptik.com
+
+
+══════════════════════════════════════════════════════════════
+REKLAM 3 — PROGRESİF CAM (40+ HEDEF)
+══════════════════════════════════════════════════════════════
+
+CREATIVE: exports/_yayinlandi/progresif-cam-nedir/01-kapak.jpg
+NOT: Progresif _yayinlandi/ klasöründe — oradan çek
+veya tüm 5 slide'ı carousel olarak
+
+REKLAM ADI: AD6 Progresif Cam · Varyasyon 6.1
+
+HEDEF KİTLE AYARI: 40-60 yaş (presbiyopi başlangıcı)
+
+ANA METİN:
+
+👀 Yakını görmek için gözlüğünüzü çıkarıyor musunuz?
+
+40 yaş sonrası en sık şikayet: uzağı net görüyorsunuz ama kitap, telefon, menü bulanık.
+
+Çözüm: 2 gözlük taşımak ZORUNDA değilsiniz.
+
+✨ PROGRESİF CAM = Tek gözlükte 3 mesafe
+1️⃣ Üst → uzak (TV, trafik)
+2️⃣ Orta → orta mesafe (bilgisayar)
+3️⃣ Alt → yakın (kitap, telefon)
+
+Bifokaldan farkı: Görünür GEÇİŞ ÇİZGİSİ YOK. Estetik, doğal.
+
+🏆 Kepekçi Optik'te yetkili satıcısıyız:
+Essilor Varilux · Zeiss · Crizal · Novax · VisionArt
+
+📍 Yeni Hastane Yolu üzeri, Kilis
+📞 0506 905 55 70
+
+BAŞLIK:
+Progresif cam — tek gözlük 3 mesafe
+
+AÇIKLAMA:
+40 yaş üstü için ideal çözüm
+
+CTA: "Yol Tarifi Al"
+
+URL: https://kepekcioptik.com (veya Maps URL)
+
+
+================================================================
+NOT — TÜM REKLAMLAR İÇİN ORTAK AYARLAR
+================================================================
+
+HEDEF KİTLE:
+- Konum: Kilis ili (10-15 km yarıçap)
+- Yaş: 25-55 (Reklam 3 için 40-60'a daralt)
+- Cinsiyet: Tüm
+- İlgi alanları: Gözlük, optik, sağlık, moda (Polarize için Sürücülük + Outdoor + Balıkçılık ekleyebilirsin)
+
+YERLEŞİM (Placement):
+- Otomatik (önerilen)
+- Veya manuel: Instagram Feed + Story + Reels + Facebook Feed
+
+OPTİMİZASYON:
+- Bağlantı tıklamaları (Link Clicks)
+- Atıf: 7 gün tıklama veya 1 gün görüntüleme
+
+BÜTÇE:
+- Yeni reklam seti için: 100 TL/gün (mevcut iki sete ek)
+- Toplam günlük: 250 TL (mevcut 150 + yeni 100)
+- Aylık tahmini: ~7,500 TL
+
+YAYINLAMA:
+- Sürekli (continuous) — yaz sezonu boyunca
+- Bitiş tarihi opsiyonel (1-2 ay sonra revizyon için)
+
+================================================================
+HATIRLATMA — DURDURMAN GEREKEN ESKİ REKLAM
+================================================================
+
+❌ AD3 Dünyaca Ünlü Markalar — Varyasyon 3.1 (DURDUR)
+- CPC 2.02 TL (diğerlerinin 2 katı)
+- CTR %1.22 (sektör ortalamasının altında)
+- Bütçesini AD1, AD2 ve yeni AD4-5-6'ya yönlendir
+
+DURDURMA ADIMLARI:
+1. Ads Manager → Reklamlar
+2. AD3 satırına gir
+3. Sol başta "switch" off (durdur, silmeden bırak — geçmiş veri kalır)
+
+
+================================================================
+META PIXEL KONTROLÜ
+================================================================
+
+Pixel ikas'ta hâlâ aktif değilse, dönüşüm takibi yapamıyorsun (sadece tıklama görüyorsun).
+
+Kurulum talimatı: exports/META-PIXEL-ikas-kurulum-talimat.txt
+
+5 dakika iş, ama dönüşüm verisi kritik:
+- "Mağazaya yol tarifi al" tıklaması
+- "Telefon ara" tıklaması
+- "Web sitesi ziyareti"
+
+Bu olaylar pixel ile ölçülür → reklamın gerçek ROI'si net olur.
+
+
+================================================================
+SONRAKI ADIM — YEN İ EXCEL EXPORT
+================================================================
+
+Yeni reklam setini 7 gün çalıştırdıktan sonra (5 Mayıs civarı):
+1. Ads Manager → Export → XLSX
+2. Breakdown ekle: "By Delivery → Age & Gender"
+3. Tarih aralığı: yeni reklam başlangıcı + 7 gün
+4. "meta reklam verileri/" klasörüne at, bana söyle
+
+Detaylı yaş/cinsiyet analiziyle hedef kitle daraltma önerileri yapacağım.
