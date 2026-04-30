@@ -22,7 +22,8 @@ GENEL STİL (önceki carousel'lerle aynı düzen):
 - Aksan: Altın/amber #F4A261 + güneş/aydınlatma efekti için sıcak tonlar
 - Başlık: Montserrat Bold, metin: Open Sans
 - Her slide sağ altta Logo.png 130px
-- Her slide altında telif yazısı + watermark (standart format)
+- Her slide altında BELİRGİN telif yazısı: "2026 Tüm tasarımlar Kepekçi Optik firmasına aittir — izinsiz kopyalanamaz, paylaşılamaz" (Open Sans 11px, bold, beyaz %45 opaklık)
+- Kapak ve son slide'da diyagonal "© KEPEKÇİ OPTİK" watermark (pattern, %8 opaklık, 45°)
 - Üstte slide dots, sağ üstte slide numarası
 
 SLIDE 1 — KAPAK (HOOK):

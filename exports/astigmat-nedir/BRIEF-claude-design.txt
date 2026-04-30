@@ -1,7 +1,7 @@
 ================================================================
 CLAUDE DESIGN BRIEF — ASTİGMAT NEDİR? BELİRTİLERİ NELERDİR?
 ================================================================
-Planlanan Yayın: Perşembe 30 Nisan 2026, 19:00
+Planlanan Yayın: Perşembe 30 Nisan 2026, 17:00 (mesai bitişi, akşam yasağı sınırında)
 Tip: Instagram Carousel (5 slide)
 Boyut: 1080x1350 (dikey)
 
@@ -23,7 +23,7 @@ GENEL STİL (önceki carousel'lerle aynı düzen):
 - Koyu gri #3A3A3A metin, beyaz veya soft gradient arka plan
 - Başlık: Montserrat Bold, metin: Open Sans
 - Her slide sağ altta Logo.png 130px
-- Her slide altında BELİRGİN telif yazısı: "© 2026 Kepekçi Optik — İzinsiz kopyalanamaz, paylaşılamaz" (Open Sans 11px, bold, beyaz %45 opaklık)
+- Her slide altında BELİRGİN telif yazısı: "2026 Tüm tasarımlar Kepekçi Optik firmasına aittir — izinsiz kopyalanamaz, paylaşılamaz" (Open Sans 11px, bold, beyaz %45 opaklık)
 - Kapak ve son slide'da diyagonal "© KEPEKÇİ OPTİK" watermark (pattern, %8 opaklık, 45°)
 - Üstte 5 dot slide navigator, sağ üstte slide numarası (01/05)
 
@@ -99,7 +99,7 @@ KRİTİK YASAKLAR:
 ================================================================
 NOTLAR
 ================================================================
-- Yayın planı: Perşembe 19:00 (prime time eğitici içerik)
+- Yayın planı: Perşembe 17:00 (mesai bitişi, sabah geçtiği için akşam sınırına yakın)
 - Hashtag önerisi:
   #kilis #kilisoptik #kilisgozluk #kilismerkez #kilisliler
   #kepekcioptik #gozunuzbizdeolsun #astigmat #gozsagligi #torikCam
