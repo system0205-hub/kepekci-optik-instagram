@@ -23,7 +23,7 @@ GENEL STİL (önceki carousel'lerle aynı düzen):
 - Koyu gri #3A3A3A metin, beyaz veya soft gradient arka plan
 - Başlık: Montserrat Bold, metin: Open Sans
 - Her slide sağ altta Logo.png 130px
-- Her slide altında BELİRGİN telif yazısı: "2026 Tüm tasarımlar Kepekçi Optik firmasına aittir — izinsiz kopyalanamaz, paylaşılamaz" (Open Sans 11px, bold, beyaz %45 opaklık)
+- Her slide altında BELİRGİN telif yazısı: "© 2026 Tüm tasarımlar Kepekçi Optik firmasına aittir — izinsiz kopyalanamaz, paylaşılamaz" (Open Sans 11px, bold, beyaz %45 opaklık)
 - Kapak ve son slide'da diyagonal "© KEPEKÇİ OPTİK" watermark (pattern, %8 opaklık, 45°)
 - Üstte 5 dot slide navigator, sağ üstte slide numarası (01/05)
 

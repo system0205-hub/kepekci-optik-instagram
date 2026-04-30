@@ -151,7 +151,7 @@ Miu Miu 54ZS, Miu Miu 54YS, Prada 15WS
 
 ### 1a. Telif Yazisi ZORUNLU (TUM TASARIMLARDA)
 - Her tasarimin en altina ince, yari saydam telif yazisi ekle
-- Metin: "2026 Tüm tasarımlar Kepekçi Optik firmasına aittir — izinsiz kopyalanamaz, paylaşılamaz"
+- Metin: "© 2026 Tüm tasarımlar Kepekçi Optik firmasına aittir — izinsiz kopyalanamaz, paylaşılamaz"
 - Font: Open Sans, 9-10px
 - Renk: #FFFFFF30 (beyaz, %19 opaklık — ince, rahatsiz etmez ama okunur)
 - Konum: En alt, ortali veya sol alt
