@@ -234,7 +234,9 @@
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1777548836/kepekci-optik/astigmat-nedir/04-cozum.jpg",
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1777548838/kepekci-optik/astigmat-nedir/05-iletisim.jpg"
     ],
-    "status": "pending",
-    "added_at": "2026-04-30 14:34"
+    "status": "published",
+    "added_at": "2026-04-30 14:34",
+    "media_id": "18098389513852408",
+    "published_at": "2026-05-01 10:58"
   }
 ]
