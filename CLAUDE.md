@@ -352,7 +352,7 @@ ONEMLI: Algoritma ilk 60 dakikadaki etkilesimi oncelikli kabul eder
 
 ---
 
-## Grid Layout Stratejisi (KRITIK — 5 Mayıs 2026)
+## Grid Layout Stratejisi (KRITIK — 5 Mayıs 2026, GUNCEL)
 
 Kullanici profilin "düzenli görünmesini" istiyor. Hedef pattern:
 ```
@@ -361,35 +361,65 @@ Kullanici profilin "düzenli görünmesini" istiyor. Hedef pattern:
 🟦 Carousel | 🎬 Reels | 🎬 Reels
 ```
 
-### Cumartesi Batch Kurali (ASLA IHLAL ETME)
+### Haftalik Yayin Takvimi (R-R-C cycle, C MUTLAKA SONUNCU)
 
-Her Cumartesi UÇ POST sırayla atılir. Sıra MUTLAKA:
-1. **10:00** → 🎬 Reels (kullanici elle atar)
-2. **11:30** → 🎬 Reels (kullanici elle atar)
-3. **13:00** → 🟦 Carousel (cron otomatik yayinlar)
+Sira onemli, GUN onemli degil. Ama optimum saatler kullanicinin tercihlerine
+ve Instagram algoritma verisine gore secildi:
+
+| Gun | Saat | Tip | Kim | Gerekce |
+|-----|------|-----|-----|---------|
+| **Sali** | **12:00** | 🎬 Reels | Kullanici elle | Reels prime time + kullanici tercihi |
+| **Persembe** | **08:30** | 🎬 Reels | Kullanici elle | Sabah engagement + kullanici tercihi |
+| **Cumartesi** | **10:00** | 🟦 Carousel | Cron otomatik | Cmt sabah peak + carousel ideal saat |
+
+Bu siralama haftalik tekrar eder. C her zaman dongumun SONUNCU postu olur.
 
 ### NEDEN BU SIRA?
 
 Instagram grid'inde en yeni post **sol-üst köşeye** gider, eskiler 1 hücre **sağa** kayar.
 Carousel SON atılırsa sol-üst köşeye o yerleşir → sol sütun carousel kalır.
-Eğer carousel ilk atılırsa, sonraki Reels onu sağa iter → grid bozulur.
+Carousel ilk atılırsa, sonraki Reels onu sağa iter → grid bozulur.
 
-### Carousel-Only Posting YASAK
+### KURAL: 3'lu cycle BOZULMAZ
 
-- Hafta içi (Sal/Per) carousel atma — grid bozar
-- Tek başına Reels atma — sol sütun delik kalir
-- Cumartesi 3 post hep birlikte atılır, 1'i eksik ise hafta atlanir
+- Cycle: R → R → C (her zaman)
+- 3 post atilir, sonra dinlenir, sonra 3 post atilir
+- 4. R atma yasagi (cycle'i kirar)
+- Hafta atlamak OK (cycle pause)
+- Sira degistirmek YASAK (R-C-R = grid bozar)
+
+### Hafta Ici Profil Gorunumu
+
+Sali oglen R atilinca → kolormatik C sag tarafa kayar → grid GECICI bozuk
+Persembe sabah R atilinca → grid hala bozuk
+Cumartesi 10:00 C atilinca → grid yeniden TEMIZ (C R R)
+
+Yani profil sadece Cumartesi 10:00'dan sonraki gunler temiz, hafta ici 3-4 gun
+gecici "kayma" gorur. Bu normal — uzun vadede grid pattern korunur.
 
 ### Reels Yapım Sorumluluğu
 
-**Kullanici (manuel):** Gözlük fotoğrafları çekiyor, Instagram uygulamasından Reels paylaşıyor.
-**Hizir (otomatik):** Carousel uretiyor, queue.json'a Cumartesi 13:00 ekliyor, cron yayınlıyor.
+**Kullanici (manuel):** Salı 12:00 ve Persembe 08:30'da gozluk fotograflariyla
+Instagram uygulamasindan Reels paylasiyor.
 
-### Hizir'in Görevi
+**Hizir (otomatik):** Carousel uretiyor, queue.json'a Cumartesi 10:00 ekliyor,
+GitHub Actions cron yayinliyor.
 
-Her Cuma sonu kontrol et:
-- Cumartesi 13:00 için carousel queue'da var mi? Yoksa konuyu sec, üret, kuyruga ekle.
-- Kullaniciya hatirlat: "Yarin 10:00 ve 11:30'da 2 reels atman gerekiyor."
+### Hizir'in Haftalik Görevleri
+
+- **Pazartesi**: Sali Reels'i icin kullaniciya hatirlatma yap
+  ("Yarin 12:00'da gozluk fotograflariyla 1 Reels atman gerekiyor.")
+- **Carsamba**: Persembe Reels'i icin hatirlatma
+  ("Yarin sabah 08:30'da 2. Reels'i atman gerekiyor.")
+- **Cuma**: Cumartesi 10:00 carousel'i icin kuyruk kontrol;
+  yoksa konu sec, brief yaz, kullanicidan onay al, Claude Design'a yolla,
+  uret, queue.json'a ekle.
+
+### Cumartesi 10:00 dolulukta degisiklik
+
+Cumartesi 10:00 saati cron tarafindan otomatik kontrol edilir
+(GitHub Actions saat basi calisir). 10:00'da queue'da pending entry varsa
+yayinlanir. 11:00 cron'unda ise zaten yayinlanmis olur.
 
 ---
 
