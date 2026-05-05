@@ -352,6 +352,47 @@ ONEMLI: Algoritma ilk 60 dakikadaki etkilesimi oncelikli kabul eder
 
 ---
 
+## Grid Layout Stratejisi (KRITIK — 5 Mayıs 2026)
+
+Kullanici profilin "düzenli görünmesini" istiyor. Hedef pattern:
+```
+🟦 Carousel | 🎬 Reels | 🎬 Reels   ← Sol sütun hep carousel
+🟦 Carousel | 🎬 Reels | 🎬 Reels   ← Sağ 2 sütun hep reels
+🟦 Carousel | 🎬 Reels | 🎬 Reels
+```
+
+### Cumartesi Batch Kurali (ASLA IHLAL ETME)
+
+Her Cumartesi UÇ POST sırayla atılir. Sıra MUTLAKA:
+1. **10:00** → 🎬 Reels (kullanici elle atar)
+2. **11:30** → 🎬 Reels (kullanici elle atar)
+3. **13:00** → 🟦 Carousel (cron otomatik yayinlar)
+
+### NEDEN BU SIRA?
+
+Instagram grid'inde en yeni post **sol-üst köşeye** gider, eskiler 1 hücre **sağa** kayar.
+Carousel SON atılırsa sol-üst köşeye o yerleşir → sol sütun carousel kalır.
+Eğer carousel ilk atılırsa, sonraki Reels onu sağa iter → grid bozulur.
+
+### Carousel-Only Posting YASAK
+
+- Hafta içi (Sal/Per) carousel atma — grid bozar
+- Tek başına Reels atma — sol sütun delik kalir
+- Cumartesi 3 post hep birlikte atılır, 1'i eksik ise hafta atlanir
+
+### Reels Yapım Sorumluluğu
+
+**Kullanici (manuel):** Gözlük fotoğrafları çekiyor, Instagram uygulamasından Reels paylaşıyor.
+**Hizir (otomatik):** Carousel uretiyor, queue.json'a Cumartesi 13:00 ekliyor, cron yayınlıyor.
+
+### Hizir'in Görevi
+
+Her Cuma sonu kontrol et:
+- Cumartesi 13:00 için carousel queue'da var mi? Yoksa konuyu sec, üret, kuyruga ekle.
+- Kullaniciya hatirlat: "Yarin 10:00 ve 11:30'da 2 reels atman gerekiyor."
+
+---
+
 ## Brand Kit
 
 ### Renk Paleti
