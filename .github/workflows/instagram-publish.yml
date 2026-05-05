@@ -29,13 +29,16 @@ jobs:
           INSTAGRAM_BUSINESS_ID: ${{ secrets.INSTAGRAM_BUSINESS_ID }}
         run: python scripts/github-publish.py
 
-      - name: Queue güncelle (yayınlananları işaretle)
+      - name: STATUS.md üret
+        run: python scripts/update-status.py
+
+      - name: Queue + STATUS.md güncelle
         run: |
           git config user.name "Kepekci Bot"
           git config user.email "bot@kepekcioptik.com"
-          git add content/queue.json
+          git add content/queue.json STATUS.md
           if ! git diff --staged --quiet; then
-            git commit -m "chore: queue güncellendi (yayınlanan işaretlendi)"
+            git commit -m "chore: queue + STATUS.md güncellendi"
             git push
           else
             echo "Değişiklik yok, push gerekmiyor."
