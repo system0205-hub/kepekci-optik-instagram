@@ -252,7 +252,9 @@
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1777979762/kepekci-optik/kolormatik-fotokromik-cam/05-markalar.jpg",
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1777979764/kepekci-optik/kolormatik-fotokromik-cam/06-iletisim.jpg"
     ],
-    "status": "pending",
-    "added_at": "2026-05-05 14:16"
+    "status": "published",
+    "added_at": "2026-05-05 14:16",
+    "media_id": "17995704311951796",
+    "published_at": "2026-05-05 14:25"
   }
 ]
