@@ -30,7 +30,7 @@ with sync_playwright() as p:
     page.wait_for_timeout(6000)  # JS unpack icin bekle
 
     # Her slide'i bul, scroll et (JS nav state update), sonra screenshot al
-    for i in range(1, 6):
+    for i in range(1, len(SLIDE_NAMES) + 1):
         selector = f"section.slide.s{i}"
         try:
             page.wait_for_selector(selector, timeout=5000)
