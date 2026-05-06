@@ -1,6 +1,6 @@
 # Kepekci Optik — Yayin Durumu
 
-**Son guncelleme:** 2026-05-07 00:00 (Turkiye saati)
+**Son guncelleme:** 2026-05-07 01:37 (Turkiye saati)
 
 Toplam: 15 | Yayinlandi: 13 | Bekleyen: 0 | Hatali: 1
 
