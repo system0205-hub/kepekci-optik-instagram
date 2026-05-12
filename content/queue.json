@@ -271,7 +271,9 @@
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1778582329/kepekci-optik/mavi-isik-filtresi-nedir/06-nasil-eklenir.jpg",
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1778582331/kepekci-optik/mavi-isik-filtresi-nedir/07-iletisim.jpg"
     ],
-    "status": "pending",
-    "added_at": "2026-05-12 13:38"
+    "status": "published",
+    "added_at": "2026-05-12 13:38",
+    "media_id": "17904590544424365",
+    "published_at": "2026-05-12 13:49"
   }
 ]
