@@ -1,0 +1,269 @@
+================================================================
+KEPEKÇİ OPTİK — INSTAGRAM CAROUSEL BRIEF
+KONU: Mavi Işık Filtresi Gerçekten Gerekli mi?
+================================================================
+
+GÖREV: 7 slide eğitici Instagram carousel tasarımı.
+FORMAT: 1080 x 1350 px (Instagram carousel — 4:5 dikey).
+TARZ: Premium, ajans kalitesinde, katmanlı, gerçek fotoğraflı. AI yapımı izlenimi VERMEMELİ.
+
+================================================================
+YÜKLENECEK GÖRSEL DOSYALAR (Bu klasörde, MUTLAKA KULLAN)
+================================================================
+1. Logo.png            → Kepekçi Optik logosu (her slide sağ üst köşe, %8-10 boyut)
+2. dukkan-foto.jpeg    → Dükkan ön cephesi (sadece slide 7 — iletişim slide'ı)
+
+================================================================
+MARKA KİMLİĞİ (DEĞİŞMEZ)
+================================================================
+- Dükkan: Kepekçi Optik (Kilis)
+- Slogan: "Gözünüz Bizde Olsun"
+- Telefon: 0506 905 55 70
+- Web: kepekcioptik.com
+- Instagram: @kepekcioptik
+- Adres: Albay İbrahim Karaoğlanoğlu, Ömer Halisdemir Cd, Beka Korupark Evleri D:31/B, 79000 Kilis Merkez/Kilis (Yeni Hastane Yolu üzeri)
+
+RENK PALETİ (ZORUNLU):
+- Ana: Turkuaz #2EC4B6
+- Aksan: Altın/Amber #F4A261
+- Metin: Koyu Gri #3A3A3A
+- Arka plan: Beyaz #FFFFFF
+- Mavi ışık vurgusu (bu konuya özel): Cyan/Elektrik mavisi #00B4D8 (sadece "mavi ışık" görsellerinde)
+
+FONT:
+- Başlık: Montserrat Bold
+- Metin: Open Sans / Lato
+
+================================================================
+SLIDE İÇERİKLERİ (7 SLIDE — KESIN)
+================================================================
+
+────────────────────────────────────────────────
+SLIDE 1 — KAPAK (HOOK)
+────────────────────────────────────────────────
+ARKA PLAN: Karanlık bir oda + bilgisayar/telefon ekranı ışığı yüzde mavi yansıma yapıyor (gerçek fotoğraf — gözlerini ovan veya yorgun bakan kişi). Üstüne koyu gradient overlay (%60 opaklık, aşağıdan yukarıya).
+
+ANA BAŞLIK (büyük, beyaz, Montserrat Bold, ekran ortası):
+"MAVİ IŞIK FİLTRESİ
+GERÇEKTEN
+GEREKLİ Mİ?"
+
+ALT BAŞLIK (turkuaz #2EC4B6 vurgu, küçük):
+"Bilim ne diyor? Pazarlama ne diyor?"
+
+ALT KÖŞE (sol alt, küçük amber #F4A261):
+"📲 8+ saat ekran başında mısınız? Kaydırın →"
+
+SAĞ ÜST: Logo.png (Kepekçi Optik)
+
+────────────────────────────────────────────────
+SLIDE 2 — MAVİ IŞIK NEDİR?
+────────────────────────────────────────────────
+ARKA PLAN: Açık renk (beyaz/açık gri). Sağ tarafta gerçek fotoğraf: telefon + tablet + dizüstü bilgisayar bir arada (mavi ışıma efektli).
+
+SOL TARAF — METİN:
+BAŞLIK (Montserrat Bold, koyu gri):
+"Mavi ışık nedir?"
+
+GÖVDE METNİ (Open Sans, koyu gri, 18pt):
+"Görünür ışığın 400-500 nm dalga boyundaki kısmı.
+Doğal kaynağı: GÜNEŞ ☀️
+Yapay kaynakları: LED ekran 📱💻, LED ampul 💡, floresan lamba"
+
+İKONLAR (#00B4D8 cyan):
+☀️ Güneş — en güçlü kaynak (ekrandan 100 kat fazla)
+📱 Telefon ekranı
+💻 Bilgisayar
+💡 LED ampul
+
+ALT NOT (küçük, gri):
+"Aslında günlük aldığımız mavi ışığın büyük kısmı güneşten gelir."
+
+SAĞ ÜST: Logo.png
+
+────────────────────────────────────────────────
+SLIDE 3 — ZARARLARI ABARTILI MI?
+────────────────────────────────────────────────
+ARKA PLAN: İki sütunlu split layout. Sol yarı (turkuaz #2EC4B6 arka plan): "KANITLANMIŞ". Sağ yarı (amber #F4A261 arka plan): "TARTIŞMALI".
+
+SOL SÜTUN — KANITLANMIŞ ✅ (beyaz metin):
+BAŞLIK: "BİLİMSEL OLARAK DOĞRU"
+- Uyku düzenini bozar (melatonin baskılar) 😴
+- Akşam ekran kullanımı uykuya dalmayı geciktirir
+- Göz yorgunluğu, kuruluk hissi yaratır
+
+SAĞ SÜTUN — TARTIŞMALI ⚠️ (beyaz metin):
+BAŞLIK: "NET KANIT YOK"
+- "Retinaya kalıcı hasar verir" → ABARTILI
+- "Katarakta yol açar" → BİLİMSEL DESTEK YOK
+- Ekran ışığı güneşten çok daha zayıf
+
+ALT BANT (koyu gri arka plan, beyaz yazı):
+"Yani: Filtre işe yarar, ama 'olmazsa olmaz' değil. Kime gerek var, kime gerek yok — devam edin →"
+
+SAĞ ÜST: Logo.png
+
+────────────────────────────────────────────────
+SLIDE 4 — KİMLER KULLANMALI?
+────────────────────────────────────────────────
+ARKA PLAN: Beyaz/açık gri. 4 kişi profil illustrasyonu veya gerçek fotoğraf kare grid (2x2).
+
+BAŞLIK (üst, Montserrat Bold, koyu gri):
+"Kimler mavi ışık filtreli cam takmalı?"
+
+4 KART (her biri turkuaz çerçeveli, ikon + başlık + açıklama):
+
+1️⃣ OFİS ÇALIŞANI 💼
+"Günde 8+ saat bilgisayar başında olanlar"
+
+2️⃣ ÖĞRENCİLER 📚
+"Online ders + ödev + telefon = 10+ saat ekran"
+
+3️⃣ GECE ÇALIŞANLAR 🌙
+"Geç saatte ekran kullanan herkes (uyku için kritik)"
+
+4️⃣ YAZILIMCI / TASARIMCI 💻
+"Ekrana sürekli odaklananlar (göz yorgunluğu sık)"
+
+ALT NOT (amber #F4A261 vurgu):
+"📲 Günde 4 saatten az ekran kullanıyorsanız → şart değil, ama zararı da yok."
+
+SAĞ ÜST: Logo.png
+
+────────────────────────────────────────────────
+SLIDE 5 — HANGİ MARKALAR? (KEPEKÇİ OPTİK AVANTAJI)
+────────────────────────────────────────────────
+ARKA PLAN: Beyaz. Üstte cam/lens ürün fotoğrafları (gerçek, ışık yansımalı).
+
+BAŞLIK (Montserrat Bold, koyu gri):
+"Kepekçi Optik'te yetkili satıcıyız:"
+
+3 MARKA KARTI (yan yana, her biri ayrı renk çerçeve):
+
+🏆 CRİZAL PREVENCIA (turkuaz çerçeve)
+"Essilor'un mavi ışık filtreli kaplaması.
+Dünya çapında en çok tercih edilen filtre."
+
+🏆 ZEISS BLUEGUARD (altın çerçeve)
+"Alman teknolojisi. Mavi ışığı cam yapısının içine entegre eder."
+
+🏆 KODAK TOTAL BLUE (koyu gri çerçeve)
+"Bütçe dostu, etkili mavi ışık koruması."
+
+ALT BANT (turkuaz arka plan, beyaz yazı):
+"✅ 3 dünya markası, tek adreste — Kepekçi Optik"
+
+SAĞ ÜST: Logo.png
+
+────────────────────────────────────────────────
+SLIDE 6 — NASIL EKLENİR?
+────────────────────────────────────────────────
+ARKA PLAN: Açık gri/beyaz. Sol tarafta gerçek cam/gözlük close-up fotoğrafı (ışık altında reflesi olan cam).
+
+SAĞ TARAF — METİN:
+BAŞLIK (Montserrat Bold):
+"İki yolu var:"
+
+1️⃣ NUMARALI GÖZLÜĞE EKLE 👓
+"Hâlihazırda gözlük kullanıyorsanız, camlarınıza mavi ışık filtresi olarak EKLENİR. Yeni cam almanıza gerek yok (camlar değiştirilir)."
+
+2️⃣ NUMARASIZ FİLTRE GÖZLÜĞÜ 🖥️
+"Numaranız yoksa, sadece mavi ışığa karşı filtreli gözlük yapılabilir. Ofis için ideal."
+
+ALT NOT (amber #F4A261):
+"💡 Aynı camda mavi ışık filtresi + UV koruma + leke önleyici kombine edilebilir."
+
+SAĞ ÜST: Logo.png
+
+────────────────────────────────────────────────
+SLIDE 7 — İLETİŞİM / KAPANIŞ
+────────────────────────────────────────────────
+ARKA PLAN: dukkan-foto.jpeg (mağaza ön cephesi) — koyu gradient overlay (%50 opaklık, alt yarı).
+
+ÜST KISIM (gradient overlay ÜZERİNDE, beyaz metin):
+BAŞLIK (Montserrat Bold, büyük):
+"Gözünüz Bizde Olsun"
+
+ALT BAŞLIK (turkuaz #2EC4B6):
+"Pupilla ölçümü + odak ölçümü + danışmanlık → mağazada ücretsiz"
+
+ORTA KISIM — 3 KART (turkuaz çerçeveli, yarı saydam beyaz dolgu):
+
+📍 ADRES:
+"Albay İbrahim Karaoğlanoğlu,
+Ömer Halisdemir Cd, Beka Korupark Evleri D:31/B,
+79000 Kilis Merkez/Kilis
+(Yeni Hastane Yolu üzeri)"
+
+📞 TELEFON:
+"0506 905 55 70"
+
+🌐 WEB & SOSYAL:
+"kepekcioptik.com
+@kepekcioptik"
+
+CTA BUTON (amber #F4A261, beyaz metin, alt orta):
+"📞 RANDEVU İÇİN ARAYIN"
+
+LOGO: Sağ üst (Logo.png)
+
+EN ALT — TELİF (ZORUNLU, 9pt, beyaz #FFFFFF30 opaklık):
+"© 2026 Tüm tasarımlar Kepekçi Optik firmasına aittir — izinsiz kopyalanamaz, paylaşılamaz"
+
+================================================================
+TASARIM KALİTE KURALLARI (KESIN UYULACAK)
+================================================================
+
+✅ ZORUNLU:
+- HER slide'da Logo.png (sağ üst, %8-10 boyut, beyaz arka planlarda gri/koyu, koyu arka planlarda beyaz)
+- HER slide farklı layout (tekrar YASAK)
+- Katmanlı tasarım: arka plan fotoğraf + gradient overlay + metin + ikon + logo
+- Gerçek, yüksek kaliteli fotoğraflar (stok seviyesi, AI yapımı izlenimi VERMEMELİ)
+- Tipografi hiyerarşisi: başlık BÜYÜK > alt başlık ORTA > gövde KÜÇÜK
+- Renkler: SADECE belirtilen palet (#2EC4B6, #F4A261, #3A3A3A, #FFFFFF, #00B4D8)
+- Türkçe karakter ZORUNLU (ç, ş, ğ, ü, ö, ı, İ)
+- Slide 7'de dukkan-foto.jpeg KULLANILMALI (AI üretim mağaza fotoğrafı YASAK)
+- Slide 7'de telif yazısı (en alt, ince, yarı saydam beyaz)
+
+❌ YASAK:
+- "Ücretsiz göz kontrolü" CTA YASAK (yasal sebep — Türkiye'de optikçi göz numarası ölçemez)
+- "Göz muayenesi", "göz olçumü", "göz numarası" ifadeleri YASAK
+- Onun yerine: "Pupilla ölçümü", "Odak ölçümü", "Gözlük danışmanlığı"
+- Düz tek renk arka plan + sadece metin YASAK
+- "Kilis'te TEK" iddiası YASAK
+- Sahte/jenerik mağaza fotoğrafı YASAK
+- Logo yerine sadece "Kepekçi Optik" yazısı YASAK (Logo.png dosyası EMBED edilmeli)
+
+================================================================
+KALİTE KONTROL LİSTESİ (TESLİM ÖNCESİ)
+================================================================
+[ ] 7 slide hepsi 1080x1350 px
+[ ] HER slide'da Logo.png görünür
+[ ] Slide 1'de hook cümlesi var
+[ ] Slide 2'de mavi ışık tanımlandı (NE OLDUĞU açıklandı)
+[ ] Slide 3'te dengeli/dürüst bilgi (abartı yok, ama göz ardı da yok)
+[ ] Slide 4'te 4 hedef kitle net listelendi
+[ ] Slide 5'te Crizal Prevencia + Zeiss BlueGuard + Kodak Total Blue üçü de var
+[ ] Slide 7'de dukkan-foto.jpeg arka plan olarak kullanıldı
+[ ] Slide 7'de tam adres, telefon, web, IG var
+[ ] Slide 7'de telif yazısı en altta (yarı saydam beyaz)
+[ ] Hiçbir slide'da "ücretsiz göz kontrolü" YOK
+[ ] Türkçe karakterler doğru (ç ş ğ ü ö ı İ)
+[ ] Renkler palet dışına çıkmadı
+
+================================================================
+ÇIKTI BEKLENTİSİ
+================================================================
+- 7 adet PNG/JPG dosyası (1080x1350 her biri)
+- İsimlendirme: 01-kapak.jpg, 02-mavi-isik-nedir.jpg, 03-zararlari.jpg,
+  04-kimler-kullanmali.jpg, 05-markalar.jpg, 06-nasil-eklenir.jpg, 07-iletisim.jpg
+
+================================================================
+YAYIN BİLGİSİ (Claude Design'a değil — sadece notlar)
+================================================================
+- Yayın planı: Cumartesi 16 Mayıs 2026, 10:00 (cron otomatik)
+- Hashtag: #kilis #kilisoptik #kilisgozluk #kilismerkez #kilisliler
+            #kepekcioptik #gozunuzbizdeolsun #maviisikfiltresi #gozsagligi #crizal
+- Geotag: Kepekçi Optik (Kilis) — Instagram konum etiketi ZORUNLU
+- Cron: queue.json'a eklenecek
+================================================================
