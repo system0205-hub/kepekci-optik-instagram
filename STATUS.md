@@ -1,12 +1,12 @@
 # Kepekci Optik — Yayin Durumu
 
-**Son guncelleme:** 2026-05-19 11:35 (Turkiye saati)
+**Son guncelleme:** 2026-05-19 11:39 (Turkiye saati)
 
-Toplam: 17 | Yayinlandi: 14 | Bekleyen: 1 | Hatali: 1
+Toplam: 17 | Yayinlandi: 15 | Bekleyen: 0 | Hatali: 1
 
-## Sira bekleyen (sonraki 5)
+## Sira bekleyen
 
-- **kontakt-lens-rehberi** (carousel) — 2026-05-19 11:30
+_(Kuyrukta hicbir sey yok — yeni icerik eklemek lazim)_
 
 ## DIKKAT — Hatali yayinlar
 
@@ -14,11 +14,11 @@ Toplam: 17 | Yayinlandi: 14 | Bekleyen: 1 | Hatali: 1
 
 ## Son yayinlananlar (son 5)
 
+- **kontakt-lens-rehberi** (carousel) — 2026-05-19 11:38 — https://www.instagram.com/p/18135991279557057/
 - **mavi-isik-filtresi-nedir** (carousel) — 2026-05-12 13:49 — https://www.instagram.com/p/17904590544424365/
 - **kolormatik-fotokromik-cam** (carousel) — 2026-05-05 14:25 — https://www.instagram.com/p/17995704311951796/
 - **astigmat-nedir** (carousel) — 2026-05-01 10:58 — https://www.instagram.com/p/18098389513852408/
 - **polarize-cam-vs-normal** (carousel) — 2026-04-28 13:52 — https://www.instagram.com/p/18175028332401817/
-- **uv400-nasil-anlasilir-retry** (carousel) — 2026-04-25 11:49 — https://www.instagram.com/p/18338090938172054/
 
 ---
 

@@ -289,7 +289,9 @@
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1779179649/kepekci-optik/kontakt-lens-rehberi/05-altin-kurallar.jpg",
       "https://res.cloudinary.com/diexi9rmr/image/upload/v1779179653/kepekci-optik/kontakt-lens-rehberi/06-iletisim.jpg"
     ],
-    "status": "pending",
-    "added_at": "2026-05-19 11:34"
+    "status": "published",
+    "added_at": "2026-05-19 11:34",
+    "media_id": "18135991279557057",
+    "published_at": "2026-05-19 11:38"
   }
 ]
