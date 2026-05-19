@@ -1,12 +1,12 @@
 # Kepekci Optik — Yayin Durumu
 
-**Son guncelleme:** 2026-05-19 09:37 (Turkiye saati)
+**Son guncelleme:** 2026-05-19 11:35 (Turkiye saati)
 
-Toplam: 16 | Yayinlandi: 14 | Bekleyen: 0 | Hatali: 1
+Toplam: 17 | Yayinlandi: 14 | Bekleyen: 1 | Hatali: 1
 
-## Sira bekleyen
+## Sira bekleyen (sonraki 5)
 
-_(Kuyrukta hicbir sey yok — yeni icerik eklemek lazim)_
+- **kontakt-lens-rehberi** (carousel) — 2026-05-19 11:30
 
 ## DIKKAT — Hatali yayinlar
 
